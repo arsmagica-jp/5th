@@ -1,7 +1,10 @@
 # アルスマギカ 第5版
 アルスマギカ第5版の日本語訳のリポジトリです。
 
+## 翻訳担当
 
+- ながみゆきと(13)
+- Regulus (3,9,12,14-16)
 
 ## ライセンス表記
 - "Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")"

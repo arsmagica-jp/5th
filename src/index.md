@@ -1,0 +1,1347 @@
+# Ars Magica Index
+
+## A
+
+- Abilities: 18, 20, 31, 62-67, 192, 223, 224
+- Abilities with no score: 62
+- Ability Block: 51
+- ability rolls: 183
+- ability summae: 71
+- Abraham: 204
+- Academic Abilities: 18, 45, 63
+- Academic Knowledges: 64
+- Accessible Power Level: 71
+- acolyte: 40, 203
+- acrobatics: 50, 64
+- acting: 50
+- action-adventure: 222
+- activities while injured: 178
+- Adam: 202
+- adder bite: 180
+- Adept Laboratory Student: 40
+- advancement: 163
+- Advancement Table: 31, 164
+- advantages: 175
+- adventure experience: 163
+- Aegis of the Hearth: 69
+- Aestas: 69
+- affiliation with a realm: 182
+- Affinity with (Ability): 40
+- Affinity with (Art): 40
+- Afflicted Tongue: 51
+- after apprenticeship: 32
+- Age: 20, 29, 192
+- Age Quickly: 51
+- aging: 168-170, 224
+- aging modifier: 71
+- aging points: 169
+- aging rolls: 170
+- Aging Total: 168
+- Aging, limit of: 80
+- aiming: 86
+- air deprivation: 180
+- alertness: 64
+- alpha storyguide: 220
+- alphabet: 62
+- alternative characters: 219
+- Ambitious: 51
+- anachronisms: 210
+- anatomy: 66
+- angel: 64, 196, 198, 202
+- Animal: 78, 116-120
+- Animal Companion: 51
+- Animal Handling: 62
+- Animal Ken: 40, 62
+- annulments: 203
+- apothecary: 66
+- apostle: 188
+- apparent age: 169
+- apprentices: 13, 14, 32, 42, 106-107
+- Apprentice's Gauntlet: see Gauntlet
+- apprenticeship: 32
+- Apt Student: 40
+- Aquam: 78, 79, 120-125
+- Arabic: 64
+- Arcadia: 12, 185, 187, 188
+- Arcane Abilities: 63
+- arcane connections: 80, 84, 94, 112, 214
+- Arcane Connections, limit of: 80
+- arcane experiments: 107-109
+- Arcane Lore: 40
+- arcane studies: 94
+- archangels: 204
+- (Area) Lore: 62
+- Arezzo: 45
+- Aristotle: 62, 66, 182
+- arithmetic: 62
+- armor: 176
+- arsenic: 180
+- art summae: 71
+- Artes Liberales: 41, 45, 62
+- Arthritis: 51
+- Arts: see Hermetic Arts
+- asp bite: 180
+- astrological alignments: 185
+- astronomy: 62
+- athletic childhood: 31
+- Athletics: 64
+- attack advantage: 171
+- attack total: 171
+- auctores: 63
+- Auram: 78, 79, 125-129
+- auras: 66, 74, 167, 183, 189, 210
+- authorities: 63
+- Autumn: 69
+- Autumn Power: 70
+- Autumnus: 69
+- Avarice: 203
+- Avaricious: 51
+- Awareness: 64
+- axe: 176, 177
+
+## B
+
+- bandits: 222
+- Baptism: 202, 203
+- Bargain: 64, 92
+- Bartholomew: 197
+- Base Targets and Sizes: 113
+- beasts of virtue: 184
+- Beholden: 73
+- Berserk: 40
+- berserker: 21
+- beta storyguide: 220
+- bile: see black bile, yellow bile
+- binding wounds: 64
+- bishop: 203, 204, 215
+- Bishop of Rome: see Pope
+- Bjornaer: 8, 11, 24, 30, 43, 91
+- black bile: 66, 180
+- Black Sheep: 51
+- Blackmail: 51
+- Blatant Gift: 51, 75
+- Blind: 52
+- blood: 66, 180
+- bloodletting: 66
+- Bloodline: 93
+- bludgeon: 176, 177
+- Boethius: 62
+- boiling: 181
+- Bologna: 45
+- Bonisagus: 8, 9, 11, 14, 24, 30, 75, 215
+- Book Learner: 40
+- books: 165-166, 213
+- Boons: 74
+- botch: 6, 87, 171, 168
+- botch chance (table): 7
+- botch dice: 7
+- Bound Familiar: 105
+- Boundary: 113
+- bows: 64, 177
+- Branded Criminal: 52
+- brave: 19
+- Brawl: 64
+- brawling weapons: 176
+- Bronze Cord: 104
+- buckler: 176, 177
+- Buildings: 74
+- Busybody: 52
+
+## C
+
+- Calm Person (creature power): 197
+- Cambridge: 45
+- canon law: 40, 46, 64, 205
+- canonized: 189
+- Carefree: 52
+- Careless Sorcerer: 52
+- Carouse: 64
+- casting requisites: 115
+- casting spells: 81-82
+- casting tools: 93
+- cathedral: 188, 205
+- Catholicism: 203, 216
+- cauterization: 64
+- Cautious Sorcerer: 40
+- Cautious with (Ability): 40
+- Cerciscum: 10
+- ceremonial casting: 83
+- Certamen: 12, 89-91, 223
+- chain mail: 176
+- Champagne: 209
+- Change Form (creature power): 196
+- changing Reputations: 167
+- Chaotic Magic: 52
+- chapel: 188
+- character conversion: 224
+- character creation: see character templates, detailed character creation
+- character templates: 20-28
+- Characteristics: 18, 20, 30, 191, 224
+- charged items: 96
+- Charlemagne: 10
+- Charm: 64
+- chausses: 176
+- child characters: 29
+- childhood: 31
+- chimerae: 187
+- Chirurgy: 64
+- Christ: 188, 202
+- Christians: 189, 217
+- Church Militant: 204
+- Church Triumphant: 204
+- Church, the: 8, 15, 40, 46, 188, 202, 203-206, 207, 216-217
+- Cicero: 62
+- Circle: 112
+- Cistercian: 206
+- cities: 15
+- Civil and Canon Law: 64, see also Canon Law
+- Clear Thinker: 40
+- clergy: 206
+- Clerk: 40
+- climaxes: 211
+- Close Family Ties: 52
+- club: 176, 177
+- Clumsy: 52
+- Clumsy Magic: 52
+- Cluny: 206
+- Code of Hermes: 9, 11, 13, 64
+- coif: 176
+- combat: 20, 171-180, 192, 224
+- combat options: 173-175
+- combat sequence: 171
+- Commanding Presence (creature power): 195
+- commerce: 205
+- Common Law: 64
+- Common Sense: 40
+- Communication: 18
+- companion templates: 21-24
+- companions: 4, 8, 17, 211
+- Compassionate: 52
+- Compulsion: 52
+- Concentration: 64, 82, 99
+- concentration table: 82
+- Concentration/Diameter: 112
+- confessor: 203
+- Confidence: 19, 20, 33, 48, 189, 192
+- Confirmation: 203
+- constant effect devices: 99
+- Constantinople: 187, 209, 216
+- Constriction: 180
+- Contested Resource: 73
+- Continence: 52
+- contortions: 64
+- convents: 206
+- conversion from 4th edition: 223-224
+- copying books: 166
+- Corpus: 78, 129-135, 170
+- corrosion: 181
+- corrupted copies: 166
+- court wizards: 14, 15
+- Covenant in play: 74
+- covenant situations: 70
+- Covenant Upbringing: 52
+- covenants: 6, 8, 13, 41, 68-74, 210, 213, 215, 223
+- Covenfolk: 41, 204, 213
+- covens: 186
+- Craft (Type): 64, 93
+- craft work: 163
+- Craftsman: 41
+- creating creatures: 192
+- creation: 222
+- Creation, limit of: 80
+- Creative Block: 52
+- creature powers: 191, 192
+- creatures: 191-198
+- creatures of a realm: 183
+- creatures of faerie: 194-196
+- creatures of magic: 193-194
+- Creatures of the Divine: 198
+- Creo: 77, 113
+- Criamon: 8, 11, 25, 30, 41, 92
+- Crippled: 52
+- crises at home: 214
+- crisis: 170
+- Crucifixion: 202
+- Crusades: 50, 188
+- cudgel: 176, 177
+- cuirass: 176
+- Cult of Mercury: 9, 215
+- curate: 205
+- Curse of Venus: 52
+- customized covenant creation: 71-74
+- Custos: 41
+- Cyclic Magic (Negative): 52
+- Cyclic Magic (Positive): 41
+
+## D
+
+- dagger: 176, 177
+- Damage Table: 171, 179
+- damage total: 171
+- Damhan-Allaidh: 10
+- Darius of Flambeau: 34-35
+- Dark Ages: 217
+- Dark Secret: 52
+- David: 204
+- De arithmetica: 62
+- De historia animalium: 67
+- De Inventione: 62
+- De Meteorologica: 67
+- De Musica: 62
+- deacon: 203
+- (Dead Language): 64
+- deadly sins: 203
+- Deaf: 52
+- Death Prophecy: 41
+- debilitation: 180
+- decrepitude: 20, 170, 192
+- Decretum: 64
+- defender: 173
+- defense total: 171
+- Deficient Form: 53
+- Deficient Technique: 53
+- Deft Form: 41
+- Deleterious Circumstances: 53
+- Delusion: 53
+- demons: 76, 180, 186, 196, 199, 213, 217
+- Dependent: 53
+- Depressed: 53
+- deprivation: 180-181
+- design: 116
+- detailed character creation: 28-33; summary 29
+- Devil: 186, 196, see also demons
+- Dexterity: 18
+- Diabolic Past: 53
+- diabolism: 12, 53
+- diabolists: 186, 212, 217
+- diagnosis: 64
+- Diameter: 112
+- Diedne: 8, 9, 10
+- Diedne Magic: 41
+- Difficult Longevity Ritual: 53
+- Difficult Spontaneous Magic: 53
+- Difficult Underlings: 53
+- Digest: 64
+- diocese: 205
+- disease: 43, 44, 66, 180
+- disengaging: 173
+- Disfigured: 53
+- Disjointed Magic: 53
+- Disorientating Magic: 53
+- distractions: 165
+- distractions from lab work: 103
+- divine aura: 183, 188; see also auras
+- Divine Might: see Might
+- Divine, limit of: 79
+- Divine, the: 8, 67, 79, 85, 182, 188, 198, 202
+- Doctrine: 202
+- dodge: 176
+- dodging: 64
+- Dominate Wolves (creature power): 197
+- Dominic, Saint: 46, 199
+- Dominican: 206
+- Dominion: 15, 183, 188, 189, 204, 217
+- Dominion Lore: 64
+- Donatus: 62
+- doorkeeper: 40, 203
+- Dowsing: 41, 64
+- dragon: 194
+- Driven: 53
+- durations: 95, 112, 114, 223
+- Durenmar: 9, 14
+- Dutybound: 53
+- Dwarf: 53
+- Dwarf Blood: 42
+
+## E
+
+- early childhood: 31
+- ease factor: 6
+- ease factors (table): 7
+- Ecclesiastical Reputation: 19
+- Economica: 67
+- Educated: 41
+- Effect Frequency Table: 98
+- effect modifications: 99
+- Elementa: 62
+- Elemental Forms: 79
+- Elemental Magic: 41
+- elementals: 184
+- Elysium: 215
+- enchanted items: 72
+- Enchanting Music: 41, 65, 166
+- enchantment summary: 96
+- enchantments: 95-101, 108
+- Encumbrance: 20, 178, 192
+- Enduring Constitution: 41
+- Enduring Magic: 41
+- Enemies: 53
+- Energy, limit of: 80
+- Enfeebled: 53
+- England: 188
+- Enigma: 11, 41, 92
+- Enigmatic Wisdom: 92
+- entering regiones: 189
+- entertainments: 207-208
+- Entomb (creature power): 195
+- Entrancement: 42, 65
+- environmental trigger: 99
+- Envious: 54
+- Envy: 203
+- Equipment: 20, 33, 192
+- Essential Nature: 206
+- Essential Nature, limit of: 79
+- Ethica: 67
+- Etiquette: 65
+- Euclid: 62
+- Eve: 202
+- Ex Miscellanea: 9, 10, 11, 25, 30
+- exertion: 173
+- exorcist: 40, 203
+- experience: 163
+- experimentation: 107-109
+- exploration: 213
+- exploring childhood: 31
+- Exposure experience: 163
+- extraordinary results: 108, 109
+- Extreme Unction: 203
+- extremely complex character generation: 33
+- extreme-research saga: 221
+- Eye: 111
+
+## F
+
+- Faerie: 8, 14, 182, 187, 208, 210, 213
+- faerie aura: 183, 187; see also auras
+- Faerie Blood: 42
+- Faerie Friend: 54
+- Faerie Lore: 42, 49, 65
+- Faerie Magic: 12, 42, 92
+- Faerie Might: see Might
+- Faerie Upbringing: 54
+- Faerieland: see Arcadia
+- Failed Apprentice: 42
+- fairs: 209
+- Faith: 203, see True Faith
+- Faith Points: 189
+- fallen angels: 186
+- falling: 181
+- familiar powers: 105
+- familiars: 84, 103-106, 108
+- Famous: 42
+- fantasy: 220, 222
+- farm implement: 176, 177
+- Fast Caster: 42
+- fast casting: 83, 87
+- fast saga: 218
+- Fatigue: 178
+- Fatigue Levels: 20, 192
+- Fatigue Recovery Table: 179
+- Favors: 54
+- fealty: 207
+- Fear: 54
+- female scholar: 22
+- Feral Upbringing: 54
+- Feud: 54
+- feudalism: 207
+- fief: 207
+- Fiery Breath (creature power): 194
+- filius/filia: 8
+- Final Twilight: 185
+- Finesse: 65
+- fire: 92, 181
+- fist: 176
+- flail: 176, 177
+- Flambeau: 8, 10, 11, 25, 30
+- Flawed Parma Magica: 54
+- Flawless Magic: 42
+- flaws: 18 see also virtues and flaws
+- Flexible Formulaic Magic: 42
+- flux: 180
+- Folk Ken: 65
+- food deprivation: 180
+- form: 115
+- Forms: 78
+- formulaic magic: 8, 9, 81
+- Fortification: 74
+- Founders, the: 8, 9, 47
+- Fragile Constitution: 54
+- France: 209, 210
+- Francis, Saint: 46, 199
+- Franciscan: 206
+- Free Expression: 42
+- Free Study: 42
+- friars: 206
+- full armor: 176
+- functionary: 40
+- fur armor: 176
+- Fury: 54
+
+## G
+
+- Gabriel: 204
+- gaining or losing Boons or Hooks: 74
+- Galen: 66
+- gambeson: 176
+- Garden of Eden: 202
+- Gauntlet (apprentice's): 8, 107
+- gauntlet (armor): 176
+- Geas: 58
+- General Abilities: 18, 63
+- General spells: 115
+- General Virtues and Flaws: 38-39
+- Generous: 54
+- gentiles: 204
+- Gentle Gift: 12, 42, 75
+- Gentleman/woman: 42
+- geometry: 62
+- gestures: 83
+- Ghostly Warder: 43, 193
+- Giant Blood: 43
+- giants: 187
+- Gift of Youth (creature power): 195
+- Gift, the: 8, 9, 14, 15, 17, 36, 43, 56, 75-77, 188, 196, 198
+- Glastonbury Abbey: 188
+- gluttonous: see Greedy
+- Goblin Blood: 42
+- God: 9, 188, 189, 202-203, 204, 215
+- Golden Cord: 104
+- Good Teacher: 43
+- Gossip: 43
+- grace: 64
+- grammar: 62
+- Grand Tribunal: 14
+- grapples: 64
+- grappling: 174-175
+- Gratian: 64
+- Great (Characteristic): 43
+- great sword: 176, 177
+- Great Weapon: 65
+- Greater Immunity: 43
+- Greater Malediction: 54
+- Greater Purifying Touch: 43
+- Greed: 203
+- Greedy: 54
+- Greek: 64
+- Gregory the Great: 203
+- grizzled veteran: 21
+- grog: 4, 8, 17, 211, 215
+- grog templates: 20-21
+- group damage: 173
+- Group/Room: 113
+- groups: 172-173
+- Guardian Angel: 43
+- Guernicus: 8, 11, 26, 30, see also Quaesitor
+- guest storytelling: 220
+- Guile: 65
+
+## H
+
+- Harnessed Magic: 43
+- hatchet: 176, 177
+- Hatred: 54
+- hauberk: 176
+- Heady Brew (creature power): 194
+- healing miracle: 206
+- healing spells: 180
+- Hearing: 114
+- Heartbeast: 11, 43, 91
+- heat: 181
+- heater shield: 176, 177
+- Heaven: 185, 203
+- heavy leather armor: 176
+- Hebrew: 64
+- hedge magic: 8
+- Hedge Wizard: 11, 54
+- Heir: 54
+- Hell: 185, 186, 203
+- helmet: 176
+- help in the laboratory: 103
+- Herbam: 78, 135-139
+- heresy: 67, 205
+- Hermes: 184
+- Hermetic Arts: 20, 77-79, 224
+- hermetic life: 222
+- Hermetic Magi: 43, 198, 202, 212
+- Hermetic Magi recommended minimum abilities: 32
+- Hermetic Magic: 8, 75-93
+- Hermetic Oath: 13
+- Hermetic Prestige: 43
+- Hermetic Reputation: 19
+- Hermetic Virtues and Flaws: 28, 36, 38-39
+- Hidden Resources: 74
+- hide: 67
+- Hiems: 70
+- high fantasy: 222
+- high vis: 218
+- Higher Purpose: 54
+- high-research saga: 221
+- Hippocrates: 66
+- historical accuracy: 199
+- history: 216
+- holy days: 188
+- Holy Grail: 215
+- Holy Orders: 203
+- Holy Sepulcher: 188
+- hooks: 72-74, 212
+- Hope: 203
+- house rules: 217
+- Houses of Hermes: 10, 30
+- Human Form (creature power): 194
+- Humble: 54
+- humors: 66, 180
+- Hunchback: 55
+- Hunt: 65
+- hunter: 21
+
+## I
+
+- ice: 181
+- Ignem: 78, 79, 139-143
+- Imaginem: 79, 143-147
+- impact: 181
+- Improved Characteristics: 43
+- incapacitation: 179
+- Incarnation: 202
+- Incompatible Arts: 55
+- Incomprehensible: 55
+- Indiscreet: 55
+- Individual/Circle: 112
+- Infamous: 55
+- Infamous Master: 55
+- infernal aura: 183, 186
+- infernal creatures: 186, 196-198
+- Infernal Lore: 65
+- Infernal Might: see Might
+- Infernal, limit of: 80
+- Infernal, the: 8, 85, 182, 186, 217
+- inheritance: 205, 208
+- Initial Bond: 104
+- initiative example: 172
+- initiative total: 171
+- injuries: 181
+- inn: 76
+- Inner Warmth (creature power): 195
+- Inoffensive to Animals: 43
+- Inspiration: 44
+- Instill Loyalty (creature power): 194
+- instilling effects: 98-100
+- Intellego: 77, 113
+- Intelligence: 18
+- intercession: 204
+- interfering with mundanes: 14
+- Intrigue: 65
+- Intuition: 44
+- inventing spells: 95, 108
+- Inventive Genius: 44
+- invested items: 96
+- investigating enchantments: 100, 108
+- investigations: 222
+- Ireland: 209
+- iron, molten: 181
+- Islam: 182, 188, see also Muslims
+
+## J
+
+- javelin: 177
+- Jerbiton: 8, 10, 12, 26, 30
+- Jerusalem: 216
+- Jesus Christ: 202
+- Jews: 57, 182, 188, 189, 203, 205, 206, 217
+- Judged Unfairly: 55
+- judges: 205
+- juggling: 50
+- jumping: 64
+- Justinian: 64
+
+## K
+
+- ka'aba: 188
+- Keen Vision: 44
+- kick: 176, 177
+- kinesis: 193
+- knife: 64, 176, 177
+- knife throwing: 50
+- Knight: 23, 44
+
+## L
+
+- lab total: 94, 183, 223
+- laboratory: 94-110
+- laboratory texts: 45, 71, 101-102, 223
+- laboratory work: 163
+- Lady Chapel: 188
+- Lame: 55
+- lance: 176, 177
+- Landed Noble: 44
+- Large: 44
+- Latent Magical Ability: 44
+- later life: 31
+- Latin: 64
+- law: 40, 66; see also common law, civil law, canon law
+- lead, molten: 181
+- Leadership: 65
+- Learn (Ability) from Mistakes: 44
+- learning Supernatural Abilities: 166
+- leather scale armor: 176
+- leaving regiones: 189
+- Lecherous: 55
+- lector: 40, 203
+- Legerdemain: 65
+- lending money: 205
+- lesser enchantments: 96
+- Lesser Immunity: 44
+- Lesser Limits: 80
+- Lesser Malediction: 55
+- Lesser Purifying Touch: 44
+- levels: 111, 115
+- levels of regiones: 189
+- liberal arts: see Artes Liberales
+- library: 71, 214
+- Libri Almagesti: 62
+- Life Boost: 44
+- Life-Linked Spontaneous Magic: 44
+- Light Touch: 45
+- Lightning Reflexes: 45
+- Limited Magic Resistance: 55
+- Limits: 163
+- experience source level limits: 164
+- Limits of Magic: 79, 223
+- linked trigger: 99
+- living conditions: 170
+- living in strong auras: 167
+- (Living Language): 66
+- Load: 178
+- Local Reputation: 19
+- logic: 62
+- logica nova: 62
+- logica vetus: 62
+- long sword: 176, 177
+- longbow: 177
+- Longevity Rituals: 51, 101, 108
+- long-term fatigue: 178, 181
+- Long-Winded: 45
+- Loose Magic: 55
+- lord: 207
+- Lord Marsyne: 195-196
+- Lord of Ice (creature power): 195
+- Lord of the Castle (creature power): 195
+- Lost Love: 55
+- Love: 203
+- Low Self-Esteem: 55
+- low vis: 218
+- low-research saga: 221
+- loyal: 19
+- Luck: 45
+- Lunar Sphere, limit of: 80
+- Lupersus: 198
+- Lust: 203
+- Lycanthrope: 55
+- lye: 181
+
+## M
+
+- mace: 176, 177
+- mace and chain: 176, 177
+- magi: 211
+- Magic: 8, 174
+- Magic (creature power): 198
+- Magic Addiction: 56
+- magic and sin: 202
+- magic aura: 183, 184, 185
+- Magic Lore: 66
+- Magic Might: see Might
+- Magic Realm: 182, 184-185
+- magic resistance: 85-86, 87, 183, 184, 189, 191
+- Magic Sensitivity: 45, 66, 189
+- Magic Theory: 66
+- Magical Air: 56
+- Magical Animal Companion: 56
+- magical creatures: 184
+- Magical Foci: 45-46
+- magical items: 16
+- Magical Memory: 45
+- Magical Senses: 113-114, 223
+- magical wolf: 193
+- Magister in Artibus: 45
+- magnitudes: 111
+- magus (also maga, magi): 4, 8, 17
+- magus templates: 24-28
+- Major Magical Focus: 45
+- Major Personality Flaws: 37
+- Major Story Flaws: 37
+- Marked Quarry (creature power): 195
+- markets: 209
+- marriage: 203, 205
+- Martial Abilities: 18, 63
+- martyrdom: 188
+- Mass: 204
+- Master of Fire (creature power): 194
+- Mastered Spells: 46
+- Mastery: see Spell Mastery
+- Mateos, the Faerie Butler: 194-195
+- Material and Size Tables: 97
+- materials: 176
+- Meddler: 56
+- Medicine: 66, 180
+- medieval paradigm: 95
+- medium covenant: 72
+- medium saga: 218
+- medium-research saga: 221
+- mendicant friars: 46, 206
+- Mentem: 79, 148-152, 212
+- Mentor: 56
+- Mercenary Captain: 46
+- Mercere: 8, 12, 26, 30, 48, see also Redcaps
+- Merchant: 46
+- Merchant's Blessing (creature power): 197
+- Merchant's Curse (creature power): 197
+- Merchant's Knowledge (creature power): 197
+- Mercurian Magic: 46
+- Mercury: 9, 46, 215
+- Merinita: 8, 9, 10, 12, 27, 30, 42, 92, 188
+- metal reinforced leather armor: 176
+- metal scale armor: 176
+- Metaphysica: 67
+- Michael: 196, 204
+- Might: 191, 192
+- Minor Magical Focus: 46
+- minor orders: 40
+- Minor Personality Flaws: 37
+- Minor Story Flaws: 37
+- miracles: 189, 206, 206, 217
+- mischievous childhood: 31
+- missile combat: 172
+- missile weapons: 177
+- Missing Ear: 56
+- Missing Eye: 56
+- Missing Hand: 56
+- Mistaken Identity: 56
+- moderate vis: 218
+- Momentary: 112
+- monasteries: 188, 206
+- monastic offices: 206
+- monastic rule: 206
+- Monastic Vows: 46, 56
+- monks: 206
+- monkshood: 180
+- Monster: 73
+- Montpellier: 45
+- Moon: 112
+- Moors: 57, see also Muslims
+- Moses: 204
+- mosques: 188
+- Motion Sickness: 56
+- mounted combat: 174
+- multiple casting: 87
+- mundane: 189
+- mundane interactions: 222
+- Mundane Lord: 70
+- mundanes: 14
+- music: 62, 66
+- Muslims: 182, 188, 189, 206, 217
+- Mute: 56
+- Muto: 78
+- Mysteries: 91-93
+- Mystery Cults: 10, 11, 30, 91, 223
+- Mythic Blood: 47
+- Mythic Europe: 4, 8, 9, 186, 189, 199-210, 216; map 200-201
+
+## N
+
+- Necessary Condition: 56
+- necromancy: 45
+- No Hands: 56
+- No Sense of Direction: 56
+- nobles: 15, 42, 44, 199, 207-208, 222
+- Nocturnal: 56
+- Noncombatant: 56
+- non-lethal combat: 174
+- no-research saga: 221
+
+## O
+
+- Oath of Fealty: 44, 56
+- Obese: 57
+- Obsessed: 57
+- Offensive to Animals: 57
+- Old Ones: 215
+- Optimistic: 57
+- Order of Hermes: 4, 8, 68, 75, 186, 210, 214, 216, 220; history of 9
+- ordination: 203
+- Ordo Miscellanea: 10
+- (Organization) Lore: 66
+- Original Sin: 202
+- Outcast: 57
+- outfittings: 176
+- Outlaw: 57
+- Outlaw Leader: 57
+- Outsider: 57
+- Overconfident: 57
+- Oversensitive: 57
+- Oxford: 45
+
+## P
+
+- pack of one: 193
+- pagan: 187
+- pagan deities: 184
+- Painful Magic: 57
+- Palsied Hands: 57
+- Papal bulls: 64
+- parens: 8, 107
+- Paris: 45, 216
+- Parma Magica: 8, 9, 16, 40, 66, 76, 85, 105, 215, 223
+- Part: 112
+- partial armor: 176
+- Paul, Saint: 204
+- pawn: 80
+- Peasant: 47, 15, 210
+- penance: 203
+- Penetration: 66, 82, 84, 87, 99, 183, 184, 191, 223
+- Perception: 18
+- Perdo: 78
+- Perfect Balance: 47
+- Perfect Defender (creature power): 198
+- Peripheral Code: 11, 13, 14, 15, 64
+- Personal: 111
+- Personal Vis Source: 47
+- Personality Flaws: 37
+- Personality Rolls (table): 19
+- Personality Traits: 18, 20, 33, 192
+- Pessimistic: 57
+- Peter, Saint: 204
+- Philosophiae: 66
+- philosophy: 188
+- phlegm: 66, 180
+- Physica: 67
+- physician: 66
+- Piercing Gaze: 47
+- pilgrimage: 199, 203, 204, 206, 207
+- Pious: 58
+- Plagued by Supernatural Entity: 58
+- Platonic Forms: 185
+- Platonic philosophy: 182
+- plots: 211
+- poisons: 180
+- Polandrus: 197
+- pole arm: 176, 177
+- pole axe: 176, 177
+- Politica: 67
+- politics: 73, 214, 215, 222
+- pooled characters: 219-220
+- Poor: 58
+- Poor (Characteristic): 58
+- Poor Eyesight: 58
+- Poor Formulaic Magic: 58
+- Poor Hearing: 58
+- Poor Memory: 58
+- Poor Student: 58
+- Pope: 204
+- Poverty: 73
+- powerful covenant: 72
+- Powerful Location: 70
+- Practice experience: 164
+- Praeco: 14
+- Pralix: 10
+- Premonitions: 47, 67
+- preparing for enchantment: 97
+- Presence: 18
+- Prestige: 74
+- Prey's Vigor (creature power): 195
+- Pride: 203
+- priest: 23, 47, 188, 203, 204
+- Primus: 14
+- Priscian: 62
+- Privileged Upbringing: 47
+- proactive stores: 212
+- Profession: 67
+- Profession: Scribe: 166
+- profit: 205
+- Prohibition: 58
+- Project Blessing (creature power): 197
+- Project Curse (creature power): 197
+- Protection: 47
+- Protector: 73
+- Proud: 58
+- Ptolemy: 62
+- Puissant (Ability): 48
+- Puissant (Art): 48
+- pulsed saga: 219
+- punches: 64
+- punishment miracle: 206
+- pure fantasy saga: 220
+- pure troupe style: 220
+- Purgatory: 203
+
+## Q
+
+- Quadrivium: 62
+- Quaesitor: 8, 10, 11, 13, 14, 73, 107, see also Guernicus
+- quality: 165
+- quartan fever: 180
+- queen: 80
+- quests: 214, 215
+- quicklime: 181
+- Quickness: 18
+- quiet casting: 87
+- Quiet Magic: 48
+- quilted armor: 176
+- quotidian fever: 10
+
+## R
+
+- raising the dead: 25, 206
+- ranges: 95, 111, 114, 223
+- Rapid Convalescence: 48
+- raw vis: see vis
+- reactive stories: 212
+- read and write: 62
+- realm auras: 183
+- Realms of Power: 63, 182-190
+- Reckless: 58
+- Reclusive: 58
+- recovery from fatigue: 178
+- recovery from incapacitation: 179
+- recovery from powers: 192
+- recovery from wounds: 179
+- rector: 205
+- Redcap: 8, 10, 12, 15, 48, 75, see also Mercere
+- regio (pl. regiones): 73, 74, 183, 189-190, 210, 213
+- regio sight roll: 189
+- regional tribunals: 15
+- Rego: 78
+- regular clergy: 206
+- relics: 48, 188, 189, 204, 206, 214
+- Renouncing: 13
+- Reputation Ease Factor (table): 19
+- Reputations: 19, 20, 33, 167, 192
+- requests for assistance: 213
+- requisites: 114-115
+- research: 220
+- Reserves of Strength: 48
+- resources: 71, 205, 218
+- Restriction: 58
+- Resurrection: 202
+- rhetoric: 62
+- Ride: 67
+- Rigid Magic: 58
+- Ring: 112
+- Ritual Magic: 46, 81
+- ritual spells: 114, 115
+- Rival: 73
+- Road: 74, 92
+- rogue: 23
+- Roman Cult of Mercury: see Cult of Mercury
+- Roman law: 205
+- Rome: 216
+- rook: 80
+- Room: 113
+- round shield: 176, 177
+- rule: see monastic rule
+- running: 64
+
+## S
+
+- sacraments: 203
+- saga speed: 219
+- saga styles: 222
+- sagas: 6, 216-222
+- saints: 64, 202, 204
+- Salamanca: 45
+- Sample Childhoods: 31
+- Saracens: 57
+- Satan: 202
+- Satyr Blood: 42
+- Schism War: 8, 10
+- scholar: 22, 206
+- scribe: 40, 166
+- scry: 13, 14, 223
+- scuffling: 174-175
+- sea: 181
+- searching: 64
+- seasons: 68, 163
+- Seclusion: 74
+- Secondary Insight: 48
+- Second Sight: 43, 48, 49, 67, 189
+- secular clergy: 206
+- secular law: 40
+- Seferiel: 198
+- Self-Confident: 48
+- Sense Holiness and Unholiness: 48, 63, 67, 189
+- setting bones: 64
+- shape and material: 97
+- Shape and Material Bonuses table: 110
+- shapechangers: 184
+- Shapeshift: 48
+- Shapeshifter: 48, 67, 208
+- Sharp Ears: 48
+- Sheltered Upbringing: 58
+- shield: 67, 176, 177
+- Short Attention Span: 58
+- shortbow: 177
+- Short-Lived Magic: 59
+- Short-Ranged Magic: 59
+- short spear: 176, 177
+- short sword: 176, 177
+- short-term fatigue: 178
+- Side Effect: 48
+- Sidhe Blood: 42
+- Sight: 112
+- sigils: 12, 86, 95, 116
+- Silent Running (creature power): 195
+- Silver Cord: 104
+- similar spells: 101
+- simple die: 6
+- Simple-Minded: 59
+- Single Weapon: 67
+- size: 18, 20, 192
+- Skilled Parens: 48
+- Skinchanger: 48
+- sling: 177
+- Sloth: 203
+- Slow Caster: 59
+- slow saga: 218
+- Small Frame: 59
+- Smell: 114
+- sneak: 67
+- Soak: 20, 78, 79, 104, 192
+- soak total: 171
+- soap opera: 213
+- social childhood: 31
+- Social Contacts: 49
+- Social Handicap: 59
+- Social Status: 28, 36, 38-39
+- Societas (pl. Societates): 30, 223
+- sodalis (pl. sodales): 8
+- Soft-Hearted: 59
+- soldier: 22
+- Soul, limit of: 80
+- soul: 203
+- spear: 176, 177
+- Special Circumstances: 49
+- special effects: 175
+- specialist: 21, 72
+- Specializations: 62
+- spell: 8
+- spellcasting options: 82
+- spellcasting rolls: 183
+- spell damage: 116
+- spell design: 111-115
+- spell guidelines: 223
+- Spell Mastery: 46, 86-87, 223
+- spells: 81, 94-95, 111-162
+- Spells Known: 20
+- Spirit Form (creature power): 198
+- spirits: 184, 196
+- splitting groups: 175
+- spontaneous magic: 8, 81, 83
+- spontaneous requisites: 115
+- Spring: 68
+- staff: 176, 177
+- Stamina: 18
+- standard soldier: 22
+- starting character age: 29
+- Stealth: 67
+- Stellatus, the Dragon: 194
+- still casting: 87
+- stone: 177
+- stories: 211-215
+- Story Flaws: 28
+- Storyguide: 4
+- story ideas: 213-215
+- storytelling: 50
+- Strength: 18
+- stress die: 6
+- Strong Faerie Blood: 49
+- Strong-Willed: 49
+- Structure: 113
+- structures: 204, 205
+- Struggling: 70
+- student: 40
+- Student of (Realm): 49
+- Study Bonus: 49
+- Study Requirement: 59
+- sub-deacon: 203
+- substances: 77
+- Subtle Form (creature power): 198
+- Subtle Magic: 49
+- summa: 71, 165
+- Summer: 68
+- Sun/Ring: 112
+- Sundering, the: 10
+- Superiors: 74
+- Supernatural Abilities: 18, 62, 63
+- Supernatural Nuisance: 59
+- Supernatural Virtues and Flaws: 36, 38-39
+- surgery: 64
+- Survival: 67
+- Susceptibility to Divine Power: 59
+- Susceptibility to Faerie Power: 59
+- Susceptibility to Infernal Power: 59
+- Swim: 67
+- sword: 176, 177
+- sympathetic connections: 84
+- sympathetic magic: 223
+
+## T
+
+- tainted vis: 190
+- Tainted with Evil: 59
+- taking communion: 204
+- talisman: 84, 95, 98
+- Targets and Sizes: 113
+- targets: 95, 112-113, 114, 223
+- Tarlan the Wolf: 195
+- Tasgillia: 10
+- Taste: 114
+- teacher: 95, 72
+- teaching: 45, 67, 164-165
+- Techniques: 77, 115
+- Temperate: 59
+- Temporal Influence: 49
+- Terram: 79, 152-156
+- terrifying howl: 193
+- theological virtues: 203
+- Theology: 66, 67
+- theory of Hermetic magic: 9
+- Three Cords: 104
+- throwing axe: 177
+- Thrown Weapon: 67
+- Time, limit of: 80
+- tithe: 205
+- tonsure: 203
+- Tormenting Master: 59
+- Touch: 114
+- Touch/Eye: 111
+- Tough: 49
+- tough guy: 22
+- tournaments: 207-208
+- towns: 209-210, 213
+- tractatus: 71, 165
+- trade: 209
+- traders: 210, 222
+- trained group: 173
+- training: 164
+- training apprentices: 106-107
+- Trajan, emperor: 203
+- Transvestite: 59
+- travel: 181, 207
+- traveling childhood: 31
+- treasure hunting: 213, 214
+- Tree of Knowledge of Good and Evil: 186
+- Tremere: 8, 10, 12, 27, 30
+- Trianoma: 8, 9, 11
+- tribunals: 8, 9, 14, 64, 215, 216
+- trigger: 99
+- Trivium: 62
+- troupe-style roleplaying: 4, 211, 219-220
+- Troupe Upbringing: 50
+- True Faith: 50, 188, 189, 198, 215
+- True Feeling, limit of: 80
+- True Friend: 50, 53
+- True Lineages: 10, 11, 30, 223
+- True Love: 50, 59
+- tumbling: 50
+- Twelve Founders: see the Founders
+- Twilight: see Wizard's Twilight
+- Twilight Prone: 60
+- Twilight Scars: 20, 89
+- Tytalus: 8, 12, 27, 30
+- Tytalus corruption of: 10
+
+## U
+
+- Unaging: 50, 166
+- Undine Blood: 42
+- Unending Drinks (creature power): 194
+- Unimaginative Learner: 60
+- universities: 45
+- Unknown Hook: 73
+- Unpredictable Magic: 60
+- Unstructured Caster: 60
+- Until (Condition): 92
+- untrained group: 173
+- Urban: 70, 74
+- using enchanted devices: 100
+- using experience points: 163
+
+## V
+
+- vambraces: 176
+- vassal: 207
+- Venus Blessing: 50
+- Verditius: 8, 9, 12, 28, 30, 50, 93, 214
+- Verditius Magic: 50, 93, 93
+- Vernus: 68
+- veteran: 21
+- Vicar of Christ: see Pope
+- villages: 76, 213
+- Vim: 79, 156-162
+- Virgin Mary: 188, 204
+- Virtues and Flaws: 18, 20, 28, 36-61, 192, 218, 223, 224
+- Vis, limit of: 80
+- vis: 8, 72, 80, 82, 94, 165, 187, 190, 192, 213, 214, 223
+- vis sources: 190, 213, 218
+- Vision: 60, 114
+- vitriol: 181
+- Voice: 112
+- Vow: 60
+- vows: 206
+- vows of poverty, chastity and obedience: 46
+
+## W
+
+- waiting spell: 100, 162
+- Wanderer: 50
+- wards: 114, 120, 124, 129, 134, 138, 143, 151, 155, 161, 223
+- warhammer: 176, 177
+- Warped Magic: 60
+- Warping: 88, 167-168, 224
+- Warping, limit of: 80
+- Warping Points: 52, 87
+- warping score: 20, 192
+- Warrior: 50
+- Waster of Vis: 61
+- water deprivation: 180
+- Ways of the (Land): 50
+- Weak Characteristics: 61
+- weak covenant: 72
+- Weak Enchanter: 61
+- Weak Magic: 61
+- Weak Magic Resistance: 61
+- Weak Parens: 61
+- Weak Scholar: 61
+- Weak Spontaneous Magic: 61
+- Weakness: 61
+- Weak-Willed: 61
+- Wealth: 74
+- Wealthy: 50
+- Weird Magic: 61
+- Well-Traveled: 50
+- Wilderness Sense: 50, 67
+- Winter: 70
+- Winter Ruins: 70
+- Wise One: 50
+- witch: 23
+- Wizard's Communion: 46, 160
+- Wizard's March: 13, 64, 66
+- wizard's sigil: see sigil
+- Wizard's Twilight: 11, 79, 87, 88-89, 185, 218, 224
+- Wizard's War: 10, 13, 14, 215
+- wolf lord: 193
+- words and gestures: 83
+- Working Material (creature power): 196
+- wound penalties: 20, 192
+- Wound Recovery Table: 179
+- Wound Table: 179
+- wounds: 178-180
+- Wrath: 203
+- Wrathful: 61
+- writing books: 165
+
+## Y
+
+- Year: 112
+- Year +1: 93
+- yellow bile: 66, 180
