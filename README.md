@@ -16,7 +16,7 @@
 
 ### 翻訳担当
 
-- ながみゆきと：13章
+- ながみゆきと（[@nagamiyukito](https://x.com/nagamiyukito)）：13章
 - Regulus：3章,9章,12章,14-16章
 
 ### 編集
