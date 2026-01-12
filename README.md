@@ -7,7 +7,7 @@
 ![Ars Magica Open License Logo](assets/arm5openlicenselogo.png)
 
 本リポジトリのコンテンツは、 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) でライセンスされています。
-本リポジトリの内容を配布する場合は、ライセンス表示として Creative Commons BY-SA 4.0 の表示とともに、本ページへのリンク(https://github.com/arsmagica-jp/5th/)を含めてください。
+本リポジトリの内容を配布する場合は、ライセンス表示として Creative Commons BY-SA 4.0 の表示とともに、本ページへのリンク( https://github.com/arsmagica-jp/5th/ )を含めてください。
 
 
 ### 翻訳担当
