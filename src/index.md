@@ -1,1347 +1,1277 @@
-# Ars Magica Index
+### 索引 (Index)
 
-## A
+（添付ファイル `index.pdf` に含まれる項目の翻訳です）
 
-- Abilities: 18, 20, 31, 62-67, 192, 223, 224
-- Abilities with no score: 62
-- Ability Block: 51
-- ability rolls: 183
-- ability summae: 71
-- Abraham: 204
-- Academic Abilities: 18, 45, 63
-- Academic Knowledges: 64
-- Accessible Power Level: 71
-- acolyte: 40, 203
-- acrobatics: 50, 64
-- acting: 50
-- action-adventure: 222
-- activities while injured: 178
-- Adam: 202
-- adder bite: 180
-- Adept Laboratory Student: 40
-- advancement: 163
-- Advancement Table: 31, 164
-- advantages: 175
-- adventure experience: 163
-- Aegis of the Hearth: 69
-- Aestas: 69
-- affiliation with a realm: 182
-- Affinity with (Ability): 40
-- Affinity with (Art): 40
-- Afflicted Tongue: 51
-- after apprenticeship: 32
-- Age: 20, 29, 192
-- Age Quickly: 51
-- aging: 168-170, 224
-- aging modifier: 71
-- aging points: 169
-- aging rolls: 170
-- Aging Total: 168
-- Aging, limit of: 80
-- aiming: 86
-- air deprivation: 180
-- alertness: 64
-- alpha storyguide: 220
-- alphabet: 62
-- alternative characters: 219
-- Ambitious: 51
-- anachronisms: 210
-- anatomy: 66
-- angel: 64, 196, 198, 202
-- Animal: 78, 116-120
-- Animal Companion: 51
-- Animal Handling: 62
-- Animal Ken: 40, 62
-- annulments: 203
-- apothecary: 66
-- apostle: 188
-- apparent age: 169
-- apprentices: 13, 14, 32, 42, 106-107
-- Apprentice's Gauntlet: see Gauntlet
-- apprenticeship: 32
-- Apt Student: 40
-- Aquam: 78, 79, 120-125
-- Arabic: 64
-- Arcadia: 12, 185, 187, 188
-- Arcane Abilities: 63
-- arcane connections: 80, 84, 94, 112, 214
-- Arcane Connections, limit of: 80
-- arcane experiments: 107-109
-- Arcane Lore: 40
-- arcane studies: 94
-- archangels: 204
-- (Area) Lore: 62
-- Arezzo: 45
-- Aristotle: 62, 66, 182
-- arithmetic: 62
-- armor: 176
-- arsenic: 180
-- art summae: 71
-- Artes Liberales: 41, 45, 62
-- Arthritis: 51
-- Arts: see Hermetic Arts
-- asp bite: 180
-- astrological alignments: 185
-- astronomy: 62
-- athletic childhood: 31
-- Athletics: 64
-- attack advantage: 171
-- attack total: 171
-- auctores: 63
-- Auram: 78, 79, 125-129
-- auras: 66, 74, 167, 183, 189, 210
-- authorities: 63
-- Autumn: 69
-- Autumn Power: 70
-- Autumnus: 69
-- Avarice: 203
-- Avaricious: 51
-- Awareness: 64
-- axe: 176, 177
-
-## B
-
-- bandits: 222
-- Baptism: 202, 203
-- Bargain: 64, 92
-- Bartholomew: 197
-- Base Targets and Sizes: 113
-- beasts of virtue: 184
-- Beholden: 73
-- Berserk: 40
-- berserker: 21
-- beta storyguide: 220
-- bile: see black bile, yellow bile
-- binding wounds: 64
-- bishop: 203, 204, 215
-- Bishop of Rome: see Pope
-- Bjornaer: 8, 11, 24, 30, 43, 91
-- black bile: 66, 180
-- Black Sheep: 51
-- Blackmail: 51
-- Blatant Gift: 51, 75
-- Blind: 52
-- blood: 66, 180
-- bloodletting: 66
-- Bloodline: 93
-- bludgeon: 176, 177
-- Boethius: 62
-- boiling: 181
-- Bologna: 45
-- Bonisagus: 8, 9, 11, 14, 24, 30, 75, 215
-- Book Learner: 40
-- books: 165-166, 213
-- Boons: 74
-- botch: 6, 87, 171, 168
-- botch chance (table): 7
-- botch dice: 7
-- Bound Familiar: 105
-- Boundary: 113
-- bows: 64, 177
-- Branded Criminal: 52
-- brave: 19
-- Brawl: 64
-- brawling weapons: 176
-- Bronze Cord: 104
-- buckler: 176, 177
-- Buildings: 74
-- Busybody: 52
-
-## C
-
-- Calm Person (creature power): 197
-- Cambridge: 45
-- canon law: 40, 46, 64, 205
-- canonized: 189
-- Carefree: 52
-- Careless Sorcerer: 52
-- Carouse: 64
-- casting requisites: 115
-- casting spells: 81-82
-- casting tools: 93
-- cathedral: 188, 205
-- Catholicism: 203, 216
-- cauterization: 64
-- Cautious Sorcerer: 40
-- Cautious with (Ability): 40
-- Cerciscum: 10
-- ceremonial casting: 83
-- Certamen: 12, 89-91, 223
-- chain mail: 176
-- Champagne: 209
-- Change Form (creature power): 196
-- changing Reputations: 167
-- Chaotic Magic: 52
-- chapel: 188
-- character conversion: 224
-- character creation: see character templates, detailed character creation
-- character templates: 20-28
-- Characteristics: 18, 20, 30, 191, 224
-- charged items: 96
-- Charlemagne: 10
-- Charm: 64
-- chausses: 176
-- child characters: 29
-- childhood: 31
-- chimerae: 187
-- Chirurgy: 64
-- Christ: 188, 202
-- Christians: 189, 217
-- Church Militant: 204
-- Church Triumphant: 204
-- Church, the: 8, 15, 40, 46, 188, 202, 203-206, 207, 216-217
-- Cicero: 62
-- Circle: 112
-- Cistercian: 206
-- cities: 15
-- Civil and Canon Law: 64, see also Canon Law
-- Clear Thinker: 40
-- clergy: 206
-- Clerk: 40
-- climaxes: 211
-- Close Family Ties: 52
-- club: 176, 177
-- Clumsy: 52
-- Clumsy Magic: 52
-- Cluny: 206
-- Code of Hermes: 9, 11, 13, 64
-- coif: 176
-- combat: 20, 171-180, 192, 224
-- combat options: 173-175
-- combat sequence: 171
-- Commanding Presence (creature power): 195
-- commerce: 205
-- Common Law: 64
-- Common Sense: 40
-- Communication: 18
-- companion templates: 21-24
-- companions: 4, 8, 17, 211
-- Compassionate: 52
-- Compulsion: 52
-- Concentration: 64, 82, 99
-- concentration table: 82
-- Concentration/Diameter: 112
-- confessor: 203
-- Confidence: 19, 20, 33, 48, 189, 192
-- Confirmation: 203
-- constant effect devices: 99
-- Constantinople: 187, 209, 216
-- Constriction: 180
-- Contested Resource: 73
-- Continence: 52
-- contortions: 64
-- convents: 206
-- conversion from 4th edition: 223-224
-- copying books: 166
-- Corpus: 78, 129-135, 170
-- corrosion: 181
-- corrupted copies: 166
-- court wizards: 14, 15
-- Covenant in play: 74
-- covenant situations: 70
-- Covenant Upbringing: 52
-- covenants: 6, 8, 13, 41, 68-74, 210, 213, 215, 223
-- Covenfolk: 41, 204, 213
-- covens: 186
-- Craft (Type): 64, 93
-- craft work: 163
-- Craftsman: 41
-- creating creatures: 192
-- creation: 222
-- Creation, limit of: 80
-- Creative Block: 52
-- creature powers: 191, 192
-- creatures: 191-198
-- creatures of a realm: 183
-- creatures of faerie: 194-196
-- creatures of magic: 193-194
-- Creatures of the Divine: 198
-- Creo: 77, 113
-- Criamon: 8, 11, 25, 30, 41, 92
-- Crippled: 52
-- crises at home: 214
-- crisis: 170
-- Crucifixion: 202
-- Crusades: 50, 188
-- cudgel: 176, 177
-- cuirass: 176
-- Cult of Mercury: 9, 215
-- curate: 205
-- Curse of Venus: 52
-- customized covenant creation: 71-74
-- Custos: 41
-- Cyclic Magic (Negative): 52
-- Cyclic Magic (Positive): 41
-
-## D
-
-- dagger: 176, 177
-- Damage Table: 171, 179
-- damage total: 171
-- Damhan-Allaidh: 10
-- Darius of Flambeau: 34-35
-- Dark Ages: 217
-- Dark Secret: 52
-- David: 204
-- De arithmetica: 62
-- De historia animalium: 67
-- De Inventione: 62
-- De Meteorologica: 67
-- De Musica: 62
-- deacon: 203
-- (Dead Language): 64
-- deadly sins: 203
-- Deaf: 52
-- Death Prophecy: 41
-- debilitation: 180
-- decrepitude: 20, 170, 192
-- Decretum: 64
-- defender: 173
-- defense total: 171
-- Deficient Form: 53
-- Deficient Technique: 53
-- Deft Form: 41
-- Deleterious Circumstances: 53
-- Delusion: 53
-- demons: 76, 180, 186, 196, 199, 213, 217
-- Dependent: 53
-- Depressed: 53
-- deprivation: 180-181
-- design: 116
-- detailed character creation: 28-33; summary 29
-- Devil: 186, 196, see also demons
-- Dexterity: 18
-- Diabolic Past: 53
-- diabolism: 12, 53
-- diabolists: 186, 212, 217
-- diagnosis: 64
-- Diameter: 112
-- Diedne: 8, 9, 10
-- Diedne Magic: 41
-- Difficult Longevity Ritual: 53
-- Difficult Spontaneous Magic: 53
-- Difficult Underlings: 53
-- Digest: 64
-- diocese: 205
-- disease: 43, 44, 66, 180
-- disengaging: 173
-- Disfigured: 53
-- Disjointed Magic: 53
-- Disorientating Magic: 53
-- distractions: 165
-- distractions from lab work: 103
-- divine aura: 183, 188; see also auras
-- Divine Might: see Might
-- Divine, limit of: 79
-- Divine, the: 8, 67, 79, 85, 182, 188, 198, 202
-- Doctrine: 202
-- dodge: 176
-- dodging: 64
-- Dominate Wolves (creature power): 197
-- Dominic, Saint: 46, 199
-- Dominican: 206
-- Dominion: 15, 183, 188, 189, 204, 217
-- Dominion Lore: 64
-- Donatus: 62
-- doorkeeper: 40, 203
-- Dowsing: 41, 64
-- dragon: 194
-- Driven: 53
-- durations: 95, 112, 114, 223
-- Durenmar: 9, 14
-- Dutybound: 53
-- Dwarf: 53
-- Dwarf Blood: 42
-
-## E
-
-- early childhood: 31
-- ease factor: 6
-- ease factors (table): 7
-- Ecclesiastical Reputation: 19
-- Economica: 67
-- Educated: 41
-- Effect Frequency Table: 98
-- effect modifications: 99
-- Elementa: 62
-- Elemental Forms: 79
-- Elemental Magic: 41
-- elementals: 184
-- Elysium: 215
-- enchanted items: 72
-- Enchanting Music: 41, 65, 166
-- enchantment summary: 96
-- enchantments: 95-101, 108
-- Encumbrance: 20, 178, 192
-- Enduring Constitution: 41
-- Enduring Magic: 41
-- Enemies: 53
-- Energy, limit of: 80
-- Enfeebled: 53
-- England: 188
-- Enigma: 11, 41, 92
-- Enigmatic Wisdom: 92
-- entering regiones: 189
-- entertainments: 207-208
-- Entomb (creature power): 195
-- Entrancement: 42, 65
-- environmental trigger: 99
-- Envious: 54
-- Envy: 203
-- Equipment: 20, 33, 192
-- Essential Nature: 206
-- Essential Nature, limit of: 79
-- Ethica: 67
-- Etiquette: 65
-- Euclid: 62
-- Eve: 202
-- Ex Miscellanea: 9, 10, 11, 25, 30
-- exertion: 173
-- exorcist: 40, 203
-- experience: 163
-- experimentation: 107-109
-- exploration: 213
-- exploring childhood: 31
-- Exposure experience: 163
-- extraordinary results: 108, 109
-- Extreme Unction: 203
-- extremely complex character generation: 33
-- extreme-research saga: 221
-- Eye: 111
-
-## F
-
-- Faerie: 8, 14, 182, 187, 208, 210, 213
-- faerie aura: 183, 187; see also auras
-- Faerie Blood: 42
-- Faerie Friend: 54
-- Faerie Lore: 42, 49, 65
-- Faerie Magic: 12, 42, 92
-- Faerie Might: see Might
-- Faerie Upbringing: 54
-- Faerieland: see Arcadia
-- Failed Apprentice: 42
-- fairs: 209
-- Faith: 203, see True Faith
-- Faith Points: 189
-- fallen angels: 186
-- falling: 181
-- familiar powers: 105
-- familiars: 84, 103-106, 108
-- Famous: 42
-- fantasy: 220, 222
-- farm implement: 176, 177
-- Fast Caster: 42
-- fast casting: 83, 87
-- fast saga: 218
-- Fatigue: 178
-- Fatigue Levels: 20, 192
-- Fatigue Recovery Table: 179
-- Favors: 54
-- fealty: 207
-- Fear: 54
-- female scholar: 22
-- Feral Upbringing: 54
-- Feud: 54
-- feudalism: 207
-- fief: 207
-- Fiery Breath (creature power): 194
-- filius/filia: 8
-- Final Twilight: 185
-- Finesse: 65
-- fire: 92, 181
-- fist: 176
-- flail: 176, 177
-- Flambeau: 8, 10, 11, 25, 30
-- Flawed Parma Magica: 54
-- Flawless Magic: 42
-- flaws: 18 see also virtues and flaws
-- Flexible Formulaic Magic: 42
-- flux: 180
-- Folk Ken: 65
-- food deprivation: 180
-- form: 115
-- Forms: 78
-- formulaic magic: 8, 9, 81
-- Fortification: 74
-- Founders, the: 8, 9, 47
-- Fragile Constitution: 54
-- France: 209, 210
-- Francis, Saint: 46, 199
-- Franciscan: 206
-- Free Expression: 42
-- Free Study: 42
-- friars: 206
-- full armor: 176
-- functionary: 40
-- fur armor: 176
-- Fury: 54
-
-## G
-
-- Gabriel: 204
-- gaining or losing Boons or Hooks: 74
-- Galen: 66
-- gambeson: 176
-- Garden of Eden: 202
-- Gauntlet (apprentice's): 8, 107
-- gauntlet (armor): 176
-- Geas: 58
-- General Abilities: 18, 63
-- General spells: 115
-- General Virtues and Flaws: 38-39
-- Generous: 54
-- gentiles: 204
-- Gentle Gift: 12, 42, 75
-- Gentleman/woman: 42
-- geometry: 62
-- gestures: 83
-- Ghostly Warder: 43, 193
-- Giant Blood: 43
-- giants: 187
-- Gift of Youth (creature power): 195
-- Gift, the: 8, 9, 14, 15, 17, 36, 43, 56, 75-77, 188, 196, 198
-- Glastonbury Abbey: 188
-- gluttonous: see Greedy
-- Goblin Blood: 42
-- God: 9, 188, 189, 202-203, 204, 215
-- Golden Cord: 104
-- Good Teacher: 43
-- Gossip: 43
-- grace: 64
-- grammar: 62
-- Grand Tribunal: 14
-- grapples: 64
-- grappling: 174-175
-- Gratian: 64
-- Great (Characteristic): 43
-- great sword: 176, 177
-- Great Weapon: 65
-- Greater Immunity: 43
-- Greater Malediction: 54
-- Greater Purifying Touch: 43
-- Greed: 203
-- Greedy: 54
-- Greek: 64
-- Gregory the Great: 203
-- grizzled veteran: 21
-- grog: 4, 8, 17, 211, 215
-- grog templates: 20-21
-- group damage: 173
-- Group/Room: 113
-- groups: 172-173
-- Guardian Angel: 43
-- Guernicus: 8, 11, 26, 30, see also Quaesitor
-- guest storytelling: 220
-- Guile: 65
-
-## H
-
-- Harnessed Magic: 43
-- hatchet: 176, 177
-- Hatred: 54
-- hauberk: 176
-- Heady Brew (creature power): 194
-- healing miracle: 206
-- healing spells: 180
-- Hearing: 114
-- Heartbeast: 11, 43, 91
-- heat: 181
-- heater shield: 176, 177
-- Heaven: 185, 203
-- heavy leather armor: 176
-- Hebrew: 64
-- hedge magic: 8
-- Hedge Wizard: 11, 54
-- Heir: 54
-- Hell: 185, 186, 203
-- helmet: 176
-- help in the laboratory: 103
-- Herbam: 78, 135-139
-- heresy: 67, 205
-- Hermes: 184
-- Hermetic Arts: 20, 77-79, 224
-- hermetic life: 222
-- Hermetic Magi: 43, 198, 202, 212
-- Hermetic Magi recommended minimum abilities: 32
-- Hermetic Magic: 8, 75-93
-- Hermetic Oath: 13
-- Hermetic Prestige: 43
-- Hermetic Reputation: 19
-- Hermetic Virtues and Flaws: 28, 36, 38-39
-- Hidden Resources: 74
-- hide: 67
-- Hiems: 70
-- high fantasy: 222
-- high vis: 218
-- Higher Purpose: 54
-- high-research saga: 221
-- Hippocrates: 66
-- historical accuracy: 199
-- history: 216
-- holy days: 188
-- Holy Grail: 215
-- Holy Orders: 203
-- Holy Sepulcher: 188
-- hooks: 72-74, 212
-- Hope: 203
-- house rules: 217
-- Houses of Hermes: 10, 30
-- Human Form (creature power): 194
-- Humble: 54
-- humors: 66, 180
-- Hunchback: 55
-- Hunt: 65
-- hunter: 21
-
-## I
-
-- ice: 181
-- Ignem: 78, 79, 139-143
-- Imaginem: 79, 143-147
-- impact: 181
-- Improved Characteristics: 43
-- incapacitation: 179
-- Incarnation: 202
-- Incompatible Arts: 55
-- Incomprehensible: 55
-- Indiscreet: 55
-- Individual/Circle: 112
-- Infamous: 55
-- Infamous Master: 55
-- infernal aura: 183, 186
-- infernal creatures: 186, 196-198
-- Infernal Lore: 65
-- Infernal Might: see Might
-- Infernal, limit of: 80
-- Infernal, the: 8, 85, 182, 186, 217
-- inheritance: 205, 208
-- Initial Bond: 104
-- initiative example: 172
-- initiative total: 171
-- injuries: 181
-- inn: 76
-- Inner Warmth (creature power): 195
-- Inoffensive to Animals: 43
-- Inspiration: 44
-- Instill Loyalty (creature power): 194
-- instilling effects: 98-100
-- Intellego: 77, 113
-- Intelligence: 18
-- intercession: 204
-- interfering with mundanes: 14
-- Intrigue: 65
-- Intuition: 44
-- inventing spells: 95, 108
-- Inventive Genius: 44
-- invested items: 96
-- investigating enchantments: 100, 108
-- investigations: 222
-- Ireland: 209
-- iron, molten: 181
-- Islam: 182, 188, see also Muslims
-
-## J
-
-- javelin: 177
-- Jerbiton: 8, 10, 12, 26, 30
-- Jerusalem: 216
-- Jesus Christ: 202
-- Jews: 57, 182, 188, 189, 203, 205, 206, 217
-- Judged Unfairly: 55
-- judges: 205
-- juggling: 50
-- jumping: 64
-- Justinian: 64
-
-## K
-
-- ka'aba: 188
-- Keen Vision: 44
-- kick: 176, 177
-- kinesis: 193
-- knife: 64, 176, 177
-- knife throwing: 50
-- Knight: 23, 44
-
-## L
-
-- lab total: 94, 183, 223
-- laboratory: 94-110
-- laboratory texts: 45, 71, 101-102, 223
-- laboratory work: 163
-- Lady Chapel: 188
-- Lame: 55
-- lance: 176, 177
-- Landed Noble: 44
-- Large: 44
-- Latent Magical Ability: 44
-- later life: 31
-- Latin: 64
-- law: 40, 66; see also common law, civil law, canon law
-- lead, molten: 181
-- Leadership: 65
-- Learn (Ability) from Mistakes: 44
-- learning Supernatural Abilities: 166
-- leather scale armor: 176
-- leaving regiones: 189
-- Lecherous: 55
-- lector: 40, 203
-- Legerdemain: 65
-- lending money: 205
-- lesser enchantments: 96
-- Lesser Immunity: 44
-- Lesser Limits: 80
-- Lesser Malediction: 55
-- Lesser Purifying Touch: 44
-- levels: 111, 115
-- levels of regiones: 189
-- liberal arts: see Artes Liberales
-- library: 71, 214
-- Libri Almagesti: 62
-- Life Boost: 44
-- Life-Linked Spontaneous Magic: 44
-- Light Touch: 45
-- Lightning Reflexes: 45
-- Limited Magic Resistance: 55
-- Limits: 163
-- experience source level limits: 164
-- Limits of Magic: 79, 223
-- linked trigger: 99
-- living conditions: 170
-- living in strong auras: 167
-- (Living Language): 66
-- Load: 178
-- Local Reputation: 19
-- logic: 62
-- logica nova: 62
-- logica vetus: 62
-- long sword: 176, 177
-- longbow: 177
-- Longevity Rituals: 51, 101, 108
-- long-term fatigue: 178, 181
-- Long-Winded: 45
-- Loose Magic: 55
-- lord: 207
-- Lord Marsyne: 195-196
-- Lord of Ice (creature power): 195
-- Lord of the Castle (creature power): 195
-- Lost Love: 55
-- Love: 203
-- Low Self-Esteem: 55
-- low vis: 218
-- low-research saga: 221
-- loyal: 19
-- Luck: 45
-- Lunar Sphere, limit of: 80
-- Lupersus: 198
-- Lust: 203
-- Lycanthrope: 55
-- lye: 181
-
-## M
-
-- mace: 176, 177
-- mace and chain: 176, 177
-- magi: 211
-- Magic: 8, 174
-- Magic (creature power): 198
-- Magic Addiction: 56
-- magic and sin: 202
-- magic aura: 183, 184, 185
-- Magic Lore: 66
-- Magic Might: see Might
-- Magic Realm: 182, 184-185
-- magic resistance: 85-86, 87, 183, 184, 189, 191
-- Magic Sensitivity: 45, 66, 189
-- Magic Theory: 66
-- Magical Air: 56
-- Magical Animal Companion: 56
-- magical creatures: 184
-- Magical Foci: 45-46
-- magical items: 16
-- Magical Memory: 45
-- Magical Senses: 113-114, 223
-- magical wolf: 193
-- Magister in Artibus: 45
-- magnitudes: 111
-- magus (also maga, magi): 4, 8, 17
-- magus templates: 24-28
-- Major Magical Focus: 45
-- Major Personality Flaws: 37
-- Major Story Flaws: 37
-- Marked Quarry (creature power): 195
-- markets: 209
-- marriage: 203, 205
-- Martial Abilities: 18, 63
-- martyrdom: 188
-- Mass: 204
-- Master of Fire (creature power): 194
-- Mastered Spells: 46
-- Mastery: see Spell Mastery
-- Mateos, the Faerie Butler: 194-195
-- Material and Size Tables: 97
-- materials: 176
-- Meddler: 56
-- Medicine: 66, 180
-- medieval paradigm: 95
-- medium covenant: 72
-- medium saga: 218
-- medium-research saga: 221
-- mendicant friars: 46, 206
-- Mentem: 79, 148-152, 212
-- Mentor: 56
-- Mercenary Captain: 46
-- Mercere: 8, 12, 26, 30, 48, see also Redcaps
-- Merchant: 46
-- Merchant's Blessing (creature power): 197
-- Merchant's Curse (creature power): 197
-- Merchant's Knowledge (creature power): 197
-- Mercurian Magic: 46
-- Mercury: 9, 46, 215
-- Merinita: 8, 9, 10, 12, 27, 30, 42, 92, 188
-- metal reinforced leather armor: 176
-- metal scale armor: 176
-- Metaphysica: 67
-- Michael: 196, 204
-- Might: 191, 192
-- Minor Magical Focus: 46
-- minor orders: 40
-- Minor Personality Flaws: 37
-- Minor Story Flaws: 37
-- miracles: 189, 206, 206, 217
-- mischievous childhood: 31
-- missile combat: 172
-- missile weapons: 177
-- Missing Ear: 56
-- Missing Eye: 56
-- Missing Hand: 56
-- Mistaken Identity: 56
-- moderate vis: 218
-- Momentary: 112
-- monasteries: 188, 206
-- monastic offices: 206
-- monastic rule: 206
-- Monastic Vows: 46, 56
-- monks: 206
-- monkshood: 180
-- Monster: 73
-- Montpellier: 45
-- Moon: 112
-- Moors: 57, see also Muslims
-- Moses: 204
-- mosques: 188
-- Motion Sickness: 56
-- mounted combat: 174
-- multiple casting: 87
-- mundane: 189
-- mundane interactions: 222
-- Mundane Lord: 70
-- mundanes: 14
-- music: 62, 66
-- Muslims: 182, 188, 189, 206, 217
-- Mute: 56
-- Muto: 78
-- Mysteries: 91-93
-- Mystery Cults: 10, 11, 30, 91, 223
-- Mythic Blood: 47
-- Mythic Europe: 4, 8, 9, 186, 189, 199-210, 216; map 200-201
-
-## N
-
-- Necessary Condition: 56
-- necromancy: 45
-- No Hands: 56
-- No Sense of Direction: 56
-- nobles: 15, 42, 44, 199, 207-208, 222
-- Nocturnal: 56
-- Noncombatant: 56
-- non-lethal combat: 174
-- no-research saga: 221
-
-## O
-
-- Oath of Fealty: 44, 56
-- Obese: 57
-- Obsessed: 57
-- Offensive to Animals: 57
-- Old Ones: 215
-- Optimistic: 57
-- Order of Hermes: 4, 8, 68, 75, 186, 210, 214, 216, 220; history of 9
-- ordination: 203
-- Ordo Miscellanea: 10
-- (Organization) Lore: 66
-- Original Sin: 202
-- Outcast: 57
-- outfittings: 176
-- Outlaw: 57
-- Outlaw Leader: 57
-- Outsider: 57
-- Overconfident: 57
-- Oversensitive: 57
-- Oxford: 45
-
-## P
-
-- pack of one: 193
-- pagan: 187
-- pagan deities: 184
-- Painful Magic: 57
-- Palsied Hands: 57
-- Papal bulls: 64
-- parens: 8, 107
-- Paris: 45, 216
-- Parma Magica: 8, 9, 16, 40, 66, 76, 85, 105, 215, 223
-- Part: 112
-- partial armor: 176
-- Paul, Saint: 204
-- pawn: 80
-- Peasant: 47, 15, 210
-- penance: 203
-- Penetration: 66, 82, 84, 87, 99, 183, 184, 191, 223
-- Perception: 18
-- Perdo: 78
-- Perfect Balance: 47
-- Perfect Defender (creature power): 198
-- Peripheral Code: 11, 13, 14, 15, 64
-- Personal: 111
-- Personal Vis Source: 47
-- Personality Flaws: 37
-- Personality Rolls (table): 19
-- Personality Traits: 18, 20, 33, 192
-- Pessimistic: 57
-- Peter, Saint: 204
-- Philosophiae: 66
-- philosophy: 188
-- phlegm: 66, 180
-- Physica: 67
-- physician: 66
-- Piercing Gaze: 47
-- pilgrimage: 199, 203, 204, 206, 207
-- Pious: 58
-- Plagued by Supernatural Entity: 58
-- Platonic Forms: 185
-- Platonic philosophy: 182
-- plots: 211
-- poisons: 180
-- Polandrus: 197
-- pole arm: 176, 177
-- pole axe: 176, 177
-- Politica: 67
-- politics: 73, 214, 215, 222
-- pooled characters: 219-220
-- Poor: 58
-- Poor (Characteristic): 58
-- Poor Eyesight: 58
-- Poor Formulaic Magic: 58
-- Poor Hearing: 58
-- Poor Memory: 58
-- Poor Student: 58
-- Pope: 204
-- Poverty: 73
-- powerful covenant: 72
-- Powerful Location: 70
-- Practice experience: 164
-- Praeco: 14
-- Pralix: 10
-- Premonitions: 47, 67
-- preparing for enchantment: 97
-- Presence: 18
-- Prestige: 74
-- Prey's Vigor (creature power): 195
-- Pride: 203
-- priest: 23, 47, 188, 203, 204
-- Primus: 14
-- Priscian: 62
-- Privileged Upbringing: 47
-- proactive stores: 212
-- Profession: 67
-- Profession: Scribe: 166
-- profit: 205
-- Prohibition: 58
-- Project Blessing (creature power): 197
-- Project Curse (creature power): 197
-- Protection: 47
-- Protector: 73
-- Proud: 58
-- Ptolemy: 62
-- Puissant (Ability): 48
-- Puissant (Art): 48
-- pulsed saga: 219
-- punches: 64
-- punishment miracle: 206
-- pure fantasy saga: 220
-- pure troupe style: 220
-- Purgatory: 203
-
-## Q
-
-- Quadrivium: 62
-- Quaesitor: 8, 10, 11, 13, 14, 73, 107, see also Guernicus
-- quality: 165
-- quartan fever: 180
-- queen: 80
-- quests: 214, 215
-- quicklime: 181
-- Quickness: 18
-- quiet casting: 87
-- Quiet Magic: 48
-- quilted armor: 176
-- quotidian fever: 10
-
-## R
-
-- raising the dead: 25, 206
-- ranges: 95, 111, 114, 223
-- Rapid Convalescence: 48
-- raw vis: see vis
-- reactive stories: 212
-- read and write: 62
-- realm auras: 183
-- Realms of Power: 63, 182-190
-- Reckless: 58
-- Reclusive: 58
-- recovery from fatigue: 178
-- recovery from incapacitation: 179
-- recovery from powers: 192
-- recovery from wounds: 179
-- rector: 205
-- Redcap: 8, 10, 12, 15, 48, 75, see also Mercere
-- regio (pl. regiones): 73, 74, 183, 189-190, 210, 213
-- regio sight roll: 189
-- regional tribunals: 15
-- Rego: 78
-- regular clergy: 206
-- relics: 48, 188, 189, 204, 206, 214
-- Renouncing: 13
-- Reputation Ease Factor (table): 19
-- Reputations: 19, 20, 33, 167, 192
-- requests for assistance: 213
-- requisites: 114-115
-- research: 220
-- Reserves of Strength: 48
-- resources: 71, 205, 218
-- Restriction: 58
-- Resurrection: 202
-- rhetoric: 62
-- Ride: 67
-- Rigid Magic: 58
-- Ring: 112
-- Ritual Magic: 46, 81
-- ritual spells: 114, 115
-- Rival: 73
-- Road: 74, 92
-- rogue: 23
-- Roman Cult of Mercury: see Cult of Mercury
-- Roman law: 205
-- Rome: 216
-- rook: 80
-- Room: 113
-- round shield: 176, 177
-- rule: see monastic rule
-- running: 64
-
-## S
-
-- sacraments: 203
-- saga speed: 219
-- saga styles: 222
-- sagas: 6, 216-222
-- saints: 64, 202, 204
-- Salamanca: 45
-- Sample Childhoods: 31
-- Saracens: 57
-- Satan: 202
-- Satyr Blood: 42
-- Schism War: 8, 10
-- scholar: 22, 206
-- scribe: 40, 166
-- scry: 13, 14, 223
-- scuffling: 174-175
-- sea: 181
-- searching: 64
-- seasons: 68, 163
-- Seclusion: 74
-- Secondary Insight: 48
-- Second Sight: 43, 48, 49, 67, 189
-- secular clergy: 206
-- secular law: 40
-- Seferiel: 198
-- Self-Confident: 48
-- Sense Holiness and Unholiness: 48, 63, 67, 189
-- setting bones: 64
-- shape and material: 97
-- Shape and Material Bonuses table: 110
-- shapechangers: 184
-- Shapeshift: 48
-- Shapeshifter: 48, 67, 208
-- Sharp Ears: 48
-- Sheltered Upbringing: 58
-- shield: 67, 176, 177
-- Short Attention Span: 58
-- shortbow: 177
-- Short-Lived Magic: 59
-- Short-Ranged Magic: 59
-- short spear: 176, 177
-- short sword: 176, 177
-- short-term fatigue: 178
-- Side Effect: 48
-- Sidhe Blood: 42
-- Sight: 112
-- sigils: 12, 86, 95, 116
-- Silent Running (creature power): 195
-- Silver Cord: 104
-- similar spells: 101
-- simple die: 6
-- Simple-Minded: 59
-- Single Weapon: 67
-- size: 18, 20, 192
-- Skilled Parens: 48
-- Skinchanger: 48
-- sling: 177
-- Sloth: 203
-- Slow Caster: 59
-- slow saga: 218
-- Small Frame: 59
-- Smell: 114
-- sneak: 67
-- Soak: 20, 78, 79, 104, 192
-- soak total: 171
-- soap opera: 213
-- social childhood: 31
-- Social Contacts: 49
-- Social Handicap: 59
-- Social Status: 28, 36, 38-39
-- Societas (pl. Societates): 30, 223
-- sodalis (pl. sodales): 8
-- Soft-Hearted: 59
-- soldier: 22
-- Soul, limit of: 80
-- soul: 203
-- spear: 176, 177
-- Special Circumstances: 49
-- special effects: 175
-- specialist: 21, 72
-- Specializations: 62
-- spell: 8
-- spellcasting options: 82
-- spellcasting rolls: 183
-- spell damage: 116
-- spell design: 111-115
-- spell guidelines: 223
-- Spell Mastery: 46, 86-87, 223
-- spells: 81, 94-95, 111-162
-- Spells Known: 20
-- Spirit Form (creature power): 198
-- spirits: 184, 196
-- splitting groups: 175
-- spontaneous magic: 8, 81, 83
-- spontaneous requisites: 115
-- Spring: 68
-- staff: 176, 177
-- Stamina: 18
-- standard soldier: 22
-- starting character age: 29
-- Stealth: 67
-- Stellatus, the Dragon: 194
-- still casting: 87
-- stone: 177
-- stories: 211-215
-- Story Flaws: 28
-- Storyguide: 4
-- story ideas: 213-215
-- storytelling: 50
-- Strength: 18
-- stress die: 6
-- Strong Faerie Blood: 49
-- Strong-Willed: 49
-- Structure: 113
-- structures: 204, 205
-- Struggling: 70
-- student: 40
-- Student of (Realm): 49
-- Study Bonus: 49
-- Study Requirement: 59
-- sub-deacon: 203
-- substances: 77
-- Subtle Form (creature power): 198
-- Subtle Magic: 49
-- summa: 71, 165
-- Summer: 68
-- Sun/Ring: 112
-- Sundering, the: 10
-- Superiors: 74
-- Supernatural Abilities: 18, 62, 63
-- Supernatural Nuisance: 59
-- Supernatural Virtues and Flaws: 36, 38-39
-- surgery: 64
-- Survival: 67
-- Susceptibility to Divine Power: 59
-- Susceptibility to Faerie Power: 59
-- Susceptibility to Infernal Power: 59
-- Swim: 67
-- sword: 176, 177
-- sympathetic connections: 84
-- sympathetic magic: 223
-
-## T
-
-- tainted vis: 190
-- Tainted with Evil: 59
-- taking communion: 204
-- talisman: 84, 95, 98
-- Targets and Sizes: 113
-- targets: 95, 112-113, 114, 223
-- Tarlan the Wolf: 195
-- Tasgillia: 10
-- Taste: 114
-- teacher: 95, 72
-- teaching: 45, 67, 164-165
-- Techniques: 77, 115
-- Temperate: 59
-- Temporal Influence: 49
-- Terram: 79, 152-156
-- terrifying howl: 193
-- theological virtues: 203
-- Theology: 66, 67
-- theory of Hermetic magic: 9
-- Three Cords: 104
-- throwing axe: 177
-- Thrown Weapon: 67
-- Time, limit of: 80
-- tithe: 205
-- tonsure: 203
-- Tormenting Master: 59
-- Touch: 114
-- Touch/Eye: 111
-- Tough: 49
-- tough guy: 22
-- tournaments: 207-208
-- towns: 209-210, 213
-- tractatus: 71, 165
-- trade: 209
-- traders: 210, 222
-- trained group: 173
-- training: 164
-- training apprentices: 106-107
-- Trajan, emperor: 203
-- Transvestite: 59
-- travel: 181, 207
-- traveling childhood: 31
-- treasure hunting: 213, 214
-- Tree of Knowledge of Good and Evil: 186
-- Tremere: 8, 10, 12, 27, 30
-- Trianoma: 8, 9, 11
-- tribunals: 8, 9, 14, 64, 215, 216
-- trigger: 99
-- Trivium: 62
-- troupe-style roleplaying: 4, 211, 219-220
-- Troupe Upbringing: 50
-- True Faith: 50, 188, 189, 198, 215
-- True Feeling, limit of: 80
-- True Friend: 50, 53
-- True Lineages: 10, 11, 30, 223
-- True Love: 50, 59
-- tumbling: 50
-- Twelve Founders: see the Founders
-- Twilight: see Wizard's Twilight
-- Twilight Prone: 60
-- Twilight Scars: 20, 89
-- Tytalus: 8, 12, 27, 30
-- Tytalus corruption of: 10
-
-## U
-
-- Unaging: 50, 166
-- Undine Blood: 42
-- Unending Drinks (creature power): 194
-- Unimaginative Learner: 60
-- universities: 45
-- Unknown Hook: 73
-- Unpredictable Magic: 60
-- Unstructured Caster: 60
-- Until (Condition): 92
-- untrained group: 173
-- Urban: 70, 74
-- using enchanted devices: 100
-- using experience points: 163
-
-## V
-
-- vambraces: 176
-- vassal: 207
-- Venus Blessing: 50
-- Verditius: 8, 9, 12, 28, 30, 50, 93, 214
-- Verditius Magic: 50, 93, 93
-- Vernus: 68
-- veteran: 21
-- Vicar of Christ: see Pope
-- villages: 76, 213
-- Vim: 79, 156-162
-- Virgin Mary: 188, 204
-- Virtues and Flaws: 18, 20, 28, 36-61, 192, 218, 223, 224
-- Vis, limit of: 80
-- vis: 8, 72, 80, 82, 94, 165, 187, 190, 192, 213, 214, 223
-- vis sources: 190, 213, 218
-- Vision: 60, 114
-- vitriol: 181
-- Voice: 112
-- Vow: 60
-- vows: 206
-- vows of poverty, chastity and obedience: 46
-
-## W
-
-- waiting spell: 100, 162
-- Wanderer: 50
-- wards: 114, 120, 124, 129, 134, 138, 143, 151, 155, 161, 223
-- warhammer: 176, 177
-- Warped Magic: 60
-- Warping: 88, 167-168, 224
-- Warping, limit of: 80
-- Warping Points: 52, 87
-- warping score: 20, 192
-- Warrior: 50
-- Waster of Vis: 61
-- water deprivation: 180
-- Ways of the (Land): 50
-- Weak Characteristics: 61
-- weak covenant: 72
-- Weak Enchanter: 61
-- Weak Magic: 61
-- Weak Magic Resistance: 61
-- Weak Parens: 61
-- Weak Scholar: 61
-- Weak Spontaneous Magic: 61
-- Weakness: 61
-- Weak-Willed: 61
-- Wealth: 74
-- Wealthy: 50
-- Weird Magic: 61
-- Well-Traveled: 50
-- Wilderness Sense: 50, 67
-- Winter: 70
-- Winter Ruins: 70
-- Wise One: 50
-- witch: 23
-- Wizard's Communion: 46, 160
-- Wizard's March: 13, 64, 66
-- wizard's sigil: see sigil
-- Wizard's Twilight: 11, 79, 87, 88-89, 185, 218, 224
-- Wizard's War: 10, 13, 14, 215
-- wolf lord: 193
-- words and gestures: 83
-- Working Material (creature power): 196
-- wound penalties: 20, 192
-- Wound Recovery Table: 179
-- Wound Table: 179
-- wounds: 178-180
-- Wrath: 203
-- Wrathful: 61
-- writing books: 165
-
-## Y
-
-- Year: 112
-- Year +1: 93
-- yellow bile: 66, 180
+* Abilities（能力）：18, 20, 31, 62-67, 192, 223, 224
+* Abilities with no score（スコアのない能力）：62
+* Ability Block（能力ブロック）：51
+* ability rolls（能力ロール）：183
+* ability summae（能力のスンマ）：71
+* Abraham（アブラハム）：204
+* Academic Abilities（学術能力）：18, 45, 63
+* Academic Knowledges（学術知識）：64
+* Accessible Power Level（利用可能魔力レベル）：71
+* acolyte（侍祭）：40, 203
+* acrobatics（軽業）：50, 64
+* acting（演技）：50
+* action-adventure（アクション・アドベンチャー）：222
+* activities while injured（負傷時の活動）：178
+* Adam（アダム）：202
+* adder bite（クサリヘビの咬み傷）：180
+* Adept Laboratory Student（《優等生》）：40
+* advancement（成長／昇進）：163
+* Advancement Table（成長表）：31, 164
+* advantages（利点）：175
+* adventure experience（冒険経験点）：163
+* Aegis of the Hearth（炉辺のアエギス）：69
+* Aestas（夏）：69
+* affiliation with a realm（領域への所属）：182
+* Affinity with (Ability)（《素質（能力）》）：40
+* Affinity with (Art)（《素質（術法）》）：40
+* Afflicted Tongue（舌禍）：51
+* after apprenticeship（徒弟期間後）：32
+* Age（年齢）：20, 29, 192
+* Age Quickly（早まる老化）：51
+* aging（老化）：168-170, 224
+* aging modifier（老化修正）：71
+* aging points（老化ポイント）：169
+* aging rolls（老化ロール）：170
+* Aging Total（老化合計）：168
+* Aging, limit of（老化の限界）：80
+* aiming（狙いをつける）：86
+* air deprivation（空気欠乏）：180
+* alertness（警戒）：64
+* alpha storyguide（アルファ・ストーリーガイド）：220
+* alphabet（アルファベット）：62
+* alternative characters（代替キャラクター）：219
+* Ambitious（野心家）：51
+* anachronisms（時代錯誤）：210
+* anatomy（解剖学）：66
+* angel（天使）：64, 196, 198, 202
+* Animal（アニマル／動物）：78, 116-120
+* Animal Companion（動物の相棒）：51
+* Animal Handling（動物使い）：62
+* Animal Ken（《動物理解》）：40, 62
+* annulments（婚姻無効）：203
+* apothecary（薬剤師）：66
+* apostle（使徒）：188
+* apparent age（外見年齢）：169
+* apprentices（徒弟）：13, 14, 32, 42, 106-107
+* Apprentice's Gauntlet（徒弟のガントレット）：Gauntlet参照
+* apprenticeship（徒弟期間）：32
+* Apt Student（《教わり上手》）：40
+* Aquam（アクアム／水）：78, 79, 120-125
+* Arabic（アラビア語）：64
+* Arcadia（アルカディア）：12, 185, 187, 188
+* Arcane Abilities（秘儀能力）：63
+* arcane connections（秘儀的連鎖）：80, 84, 94, 112, 214
+* Arcane Connections, limit of（秘儀的連鎖の限界）：80
+* arcane experiments（秘儀実験）：107-109
+* Arcane Lore（秘儀知識）：40
+* arcane studies（秘儀研究）：94
+* archangels（大天使）：204
+* (Area) Lore（地域知識）：62
+* Arezzo（アッツォ）：45
+* Aristotle（アリストテレス）：62, 66, 182
+* arithmetic（算術）：62
+* armor（鎧）：176
+* arsenic（ヒ素）：180
+* art summae（術法のスンマ）：71
+* Artes Liberales（自由学科）：41, 45, 62
+* Arthritis（関節炎）：51
+* Arts（術法）：Hermetic Arts参照
+* asp bite（アスプコブラの咬み傷）：180
+* astrological alignments（占星術的配列）：185
+* astronomy（天文学）：62
+* athletic childhood（運動好きな幼少期）：31
+* Athletics（運動）：64
+* attack advantage（攻撃アドバンテージ）：171
+* attack total（攻撃合計値）：171
+* auctores（権威者）：63
+* Auram（アウラム／風）：78, 79, 125-129
+* auras（オーラ）：66, 74, 167, 183, 189, 210
+* authorities（権威）：63
+* Autumn（秋）：69
+* Autumn Power（秋の力）：70
+* Autumnus（秋）：69
+* Avarice（強欲）：203
+* Avaricious（強欲な）：51
+* Awareness（気付き）：64
+* axe（斧）：176, 177
+* bandits（山賊）：222
+* Baptism（洗礼）：202, 203
+* Bargain（取引）：64, 92
+* Bartholomew（バーソロミュー）：197
+* Base Targets and Sizes（基本となる目標とサイズ）：113
+* beasts of virtue（有徳の獣）：184
+* Beholden（恩義）：73
+* Berserk（《凶暴化》）：40
+* berserker（《凶暴化》）：21
+* beta storyguide（ベータ・ストーリーガイド）：220
+* bile（胆汁）：black bile, yellow bile参照
+* binding wounds（傷の手当て）：64
+* bishop（司教）：203, 204, 215
+* Bishop of Rome（ローマ司教）：Pope参照
+* Bjornaer（ビョルネール）：8, 11, 24, 30, 43, 91
+* black bile（黒胆汁）：66, 180
+* Black Sheep（厄介者）：51
+* Blackmail（脅迫）：51
+* Blatant Gift（《露骨な天禀》）：51, 75
+* Blind（盲目）：52
+* blood（血液）：66, 180
+* bloodletting（瀉血）：66
+* Bloodline（血統）：93
+* bludgeon（殴打武器）：176, 177
+* Boethius（ボエティウス）：62
+* boiling（沸騰）：181
+* Bologna（ボローニャ）：45
+* Bonisagus（ボニサグス）：8, 9, 11, 14, 24, 30, 75, 215
+* Book Learner（読書家）：40
+* books（書物）：165-166, 213
+* Boons（恵み）：74
+* botch（ボッチ／大失敗）：6, 87, 171, 168
+* botch chance (table)（ボッチ確率（表））：7
+* botch dice（ボッチ・ダイス）：7
+* Bound Familiar（束縛された使い魔）：105
+* Boundary（境界）：113
+* bows（弓）：64, 177
+* Branded Criminal（烙印を押された犯罪者）：52
+* brave（勇敢）：19
+* Brawl（喧嘩）：64
+* brawling weapons（喧嘩武器）：176
+* Bronze Cord（青銅の紐）：104
+* buckler（バックラー）：176, 177
+* Buildings（建物）：74
+* Busybody（おせっかい）：52
+* Calm Person (creature power)（沈静化（クリーチャーパワー））：197
+* Cambridge（ケンブリッジ）：45
+* canon law（教会法）：40, 46, 64, 205
+* canonized（列聖）：189
+* Carefree（能天気）：52
+* Careless Sorcerer（不注意な魔術師）：52
+* Carouse（大騒ぎ）：64
+* casting requisites（行使時制約）：115
+* casting spells（呪文の行使）：81-82
+* casting tools（詠唱道具）：93
+* cathedral（大聖堂）：188, 205
+* Catholicism（カトリック）：203, 216
+* cauterization（焼灼）：64
+* Cautious Sorcerer（慎重な魔術師）：40
+* Cautious with (Ability)（《細心（技能）》）：40
+* Cerciscum（セルシストゥム）：10
+* ceremonial casting（祭式詠唱）：83
+* Certamen（ケルターメン）：12, 89-91, 223
+* chain mail（チェインメイル）：176
+* Champagne（シャンパーニュ）：209
+* Change Form (creature power)（変身（クリーチャーパワー））：196
+* changing Reputations（評判の変化）：167
+* Chaotic Magic（混沌魔術）：52
+* chapel（礼拝堂）：188
+* character conversion（キャラクターのコンバージョン）：224
+* character creation（キャラクター作成）：character templates, detailed character creation参照
+* character templates（キャラクター・テンプレート）：20-28
+* Characteristics（特性値）：18, 20, 30, 191, 224
+* charged items（チャージ・アイテム）：96
+* Charlemagne（シャルルマーニュ）：10
+* Charm（魅了）：64
+* chausses（ショース）：176
+* child characters（子供のキャラクター）：29
+* childhood（幼少期）：31
+* chimerae（キメラ）：187
+* Chirurgy（外科）：64
+* Christ（キリスト）：188, 202
+* Christians（キリスト教徒）：189, 217
+* Church Militant（地上の教会）：204
+* Church Triumphant（天上の教会）：204
+* Church, the（教会）：8, 15, 40, 46, 188, 202, 203-206, 207, 216-217
+* Cicero（キケロ）：62
+* Circle（円）：112
+* Cistercian（シトー会）：206
+* cities（都市）：15
+* Civil and Canon Law（市民法と教会法）：64, Canon Lawも参照
+* Clear Thinker（《頭脳明晰》）：40
+* clergy（聖職者）：206
+* Clerk（《知識階級》）：40
+* climaxes（クライマックス）：211
+* Close Family Ties（強い家族の絆）：52
+* club（こん棒）：176, 177
+* Clumsy（不器用）：52
+* Clumsy Magic（不器用な魔法）：52
+* Cluny（クリュニー）：206
+* Code of Hermes（ヘルメス法典）：9, 11, 13, 64
+* coif（コイフ）：176
+* combat（戦闘）：20, 171-180, 192, 224
+* combat options（戦闘オプション）：173-175
+* combat sequence（戦闘の手順）：171
+* Commanding Presence (creature power)（威厳（クリーチャーパワー））：195
+* commerce（商業）：205
+* Common Law（コモン・ロー）：64
+* Common Sense（《常識》）：40
+* Communication（【交渉】）：18
+* companion templates（コンパニオン・テンプレート）：21-24
+* companions（コンパニオン）：4, 8, 17, 211
+* Compassionate（慈悲深い）：52
+* Compulsion（強迫観念）：52
+* Concentration（集中）：64, 82, 99
+* concentration table（集中表）：82
+* Concentration/Diameter（集中／直径）：112
+* confessor（聴罪司祭）：203
+* Confidence（自信）：19, 20, 33, 48, 189, 192
+* Confirmation（堅信）：203
+* constant effect devices（常時効果装置）：99
+* Constantinople（コンスタンティノープル）：187, 209, 216
+* Constriction（締め付け）：180
+* Contested Resource（《資源争い》）：73
+* Continence（自制）：52
+* contortions（曲芸）：64
+* convents（修道院）：206
+* conversion from 4th edition（第4版からの移行）：223-224
+* copying books（写本）：166
+* Corpus（コルプス／肉体）：78, 129-135, 170
+* corrosion（腐食）：181
+* corrupted copies（劣化した写本）：166
+* court wizards（宮廷魔術師）：14, 15
+* Covenant in play（プレイ中のコヴナント）：74
+* covenant situations（コヴナントの状況）：70
+* Covenant Upbringing（コヴナント育ち）：52
+* covenants（コヴナント）：6, 8, 13, 41, 68-74, 210, 213, 215, 223
+* Covenfolk（《コヴナントの住人》）：41, 204, 213
+* covens（カヴン）：186
+* Craft (Type)（製作（種類））：64, 93
+* craft work（製作作業）：163
+* Craftsman（《職人》）：41
+* creating creatures（クリーチャーの作成）：192
+* creation（作成）：222
+* Creation, limit of（創造の限界）：80
+* Creative Block（スランプ）：52
+* creature powers（クリーチャーパワー）：191, 192
+* creatures（クリーチャー）：191-198
+* creatures of a realm（領域のクリーチャー）：183
+* creatures of faerie（妖精のクリーチャー）：194-196
+* creatures of magic（魔法のクリーチャー）：193-194
+* Creatures of the Divine（聖なるクリーチャー）：198
+* Creo（クレオ／創造）：77, 113
+* Criamon（クリアーモン）：8, 11, 25, 30, 41, 92
+* Crippled（不具）：52
+* crises at home（本拠地での危機）：214
+* crisis（危機）：170
+* Crucifixion（磔刑）：202
+* Crusades（十字軍）：50, 188
+* cudgel（棍棒）：176, 177
+* cuirass（キュイラス）：176
+* Cult of Mercury（メルクリウス魔術団）：9, 215
+* curate（副牧師）：205
+* Curse of Venus（ヴィーナスの呪い）：52
+* customized covenant creation（コヴナント作成ルール）：71-74
+* Custos（《クーストース》）：41
+* Cyclic Magic (Negative)（《負の周期魔術》）：52
+* Cyclic Magic (Positive)（《正の周期魔術》）：41
+* dagger（短剣）：176, 177
+* Damage Table（ダメージ表）：171, 179
+* damage total（ダメージ合計）：171
+* Damhan-Allaidh（ダムハン・アライ）：10
+* Darius of Flambeau（フランボーのダリウス）：34-35
+* Dark Ages（暗黒時代）：217
+* Dark Secret（暗い秘密）：52
+* David（ダビデ）：204
+* De arithmetica（算術について）：62
+* De historia animalium（動物誌）：67
+* De Inventione（発想論）：62
+* De Meteorologica（気象論）：67
+* De Musica（音楽について）：62
+* deacon（助祭）：203
+* (Dead Language)（死語）：64
+* deadly sins（大罪）：203
+* Deaf（聾唖）：52
+* Death Prophecy（《死の予言》）：41
+* debilitation（衰弱）：180
+* decrepitude（老衰）：20, 170, 192
+* Decretum（教令集）：64
+* defender（防御側）：173
+* defense total（防御合計）：171
+* Deficient Form（欠陥ある形相）：53
+* Deficient Technique（欠陥ある技法）：53
+* Deft Form（《巧みな形相》）：41
+* Deleterious Circumstances（有害な状況）：53
+* Delusion（妄想）：53
+* demons（悪魔）：76, 180, 186, 196, 199, 213, 217
+* Dependent（扶養家族）：53
+* Depressed（鬱）：53
+* deprivation（欠乏）：180-181
+* design（設計）：116
+* detailed character creation（詳細なキャラクター作成）：28-33; summary 29
+* Devil（悪魔）：186, 196, demonsも参照
+* Dexterity（【器用】）：18
+* Diabolic Past（悪魔的な過去）：53
+* diabolism（悪魔崇拝）：12, 53
+* diabolists（悪魔崇拝者）：186, 212, 217
+* diagnosis（診断）：64
+* Diameter（直径）：112
+* Diedne（ディエドネー）：8, 9, 10
+* Diedne Magic（《ディエドネー魔法》）：41
+* Difficult Longevity Ritual（困難な延命儀式）：53
+* Difficult Spontaneous Magic（困難な即興魔法）：53
+* Difficult Underlings（扱いにくい部下）：53
+* Digest（学説彙纂）：64
+* diocese（教区）：205
+* disease（病気）：43, 44, 66, 180
+* disengaging（離脱）：173
+* Disfigured（醜怪）：53
+* Disjointed Magic（支離滅裂な魔術）：53
+* Disorientating Magic（方向感覚を失わせる魔術）：53
+* distractions（気晴らし／妨害）：165
+* distractions from lab work（研究の妨害）：103
+* divine aura（聖なるオーラ）：183, 188; aurasも参照
+* Divine Might（聖なる実力値）：Might参照
+* Divine, limit of（聖なる力の限界）：79
+* Divine, the（聖なる力）：8, 67, 79, 85, 182, 188, 198, 202
+* Doctrine（教義）：202
+* dodge（回避）：176
+* dodging（回避）：64
+* Dominate Wolves (creature power)（狼の支配（クリーチャーパワー））：197
+* Dominic, Saint（聖ドミニコ）：46, 199
+* Dominican（ドミニコ会）：206
+* Dominion（ドミニオン／支配地）：15, 183, 188, 189, 204, 217
+* Dominion Lore（ドミニオン知識）：64
+* Donatus（ドナトゥス）：62
+* doorkeeper（守衛）：40, 203
+* Dowsing（《ダウジング》）：41, 64
+* dragon（ドラゴン）：194
+* Driven（突き動かされる）：53
+* Durenmar（デュレンマール）：9, 14
+* Dutybound（義理堅い）：53
+* Dwarf（ドワーフ／小人症）：53
+* Dwarf Blood（ドワーフの血）：42
+* early childhood（幼少期）：31
+* ease factor（目標値）：6
+* ease factors (table)（目標値（表））：7
+* Ecclesiastical Reputation（教会での評判）：19
+* Economica（家政論）：67
+* Educated（《教育》）：41
+* Effect Frequency Table（効果頻度表）：98
+* effect modifications（効果の修正）：99
+* Elementa（原本）：62
+* Elemental Forms（元素の形相）：79
+* Elemental Magic（《元素魔法》）：41
+* elementals（精霊）：184
+* Elysium（エリュシオン）：215
+* enchanted items（呪付・アイテム）：72
+* Enchanting Music（《魅惑の調べ》）：41, 65, 166
+* enchantment summary（呪付の概要）：96
+* enchantments（呪付）：95-101, 108
+* Encumbrance（荷重）：20, 178, 192
+* Enduring Constitution（《忍耐力》）：41
+* Enduring Magic（《長命な魔法》）：41
+* Enemies（敵）：53
+* Energy, limit of（エネルギーの限界）：80
+* Enfeebled（虚弱）：53
+* England（イングランド）：188
+* Enigma（エニグマ）：11, 41, 92
+* Enigmatic Wisdom（〈エニグマ悟得〉）：92
+* entering regiones（レギオーへの侵入）：189
+* entertainments（娯楽）：207-208
+* Entomb (creature power)（埋葬（クリーチャーパワー））：195
+* Entrancement（《催眠》）：42, 65
+* environmental trigger（環境トリガー）：99
+* Envious（嫉妬深い）：54
+* Envy（嫉妬）：203
+* Equipment（装備）：20, 33, 192
+* Essential Nature（本質的性質）：206
+* Essential Nature, limit of（本質的性質の限界）：79
+* Ethica（倫理学）：67
+* Etiquette（礼儀作法）：65
+* Euclid（ユークリッド）：62
+* Eve（イブ）：202
+* Ex Miscellanea（雑集派）：9, 10, 11, 25, 30
+* exertion（尽力／疲労）：173
+* exorcist（祓魔師）：40, 203
+* experience（経験）：163
+* experimentation（実験）：107-109
+* exploration（探検）：213
+* exploring childhood（探検好きな幼少期）：31
+* Exposure experience（暴露経験点）：163
+* extraordinary results（特殊結果表）：108, 109
+* Extreme Unction（終油の秘跡）：203
+* extremely complex character generation（極めて複雑なキャラクター作成）：33
+* extreme-research saga（極端な研究サーガ）：221
+* Eye（目）：111
+* Faerie（妖精）：8, 14, 182, 187, 208, 210, 213
+* faerie aura（妖精のオーラ）：183, 187; aurasも参照
+* Faerie Blood（《妖精の血脈》）：42
+* Faerie Friend（妖精の友）：54
+* Faerie Lore（妖精知識）：42, 49, 65
+* Faerie Magic（《妖精魔法》）：12, 42, 92
+* Faerie Might（妖精の実力値）：Might参照
+* Faerie Upbringing（妖精育ち）：54
+* Faerieland（妖精郷）：Arcadia参照
+* Failed Apprentice（《落伍した徒弟》）：42
+* fairs（市）：209
+* Faith（信仰）：203, True Faith参照
+* Faith Points（信仰ポイント）：189
+* fallen angels（堕天使）：186
+* falling（落下）：181
+* familiar powers（使い魔の能力）：105
+* familiars（使い魔）：84, 103-106, 108
+* Famous（《有名》）：42
+* fantasy（ファンタジー）：220, 222
+* farm implement（農具）：176, 177
+* Fast Caster（《機敏な術者》）：42
+* fast casting（速唱）：83, 87
+* fast saga（進行の早いサーガ）：218
+* Fatigue（疲労）：178
+* Fatigue Levels（疲労レベル）：20, 192
+* Fatigue Recovery Table（疲労回復表）：179
+* Favors（貸し借り）：54
+* fealty（忠誠）：207
+* Fear（恐怖）：54
+* female scholar（女性学者）：22
+* Feral Upbringing（野生児）：54
+* Feud（確執）：54
+* feudalism（封建制度）：207
+* fief（封土）：207
+* Fiery Breath (creature power)（火の息（クリーチャーパワー））：194
+* filius/filia（フィリウス／フィリア）：8
+* Final Twilight（終末の黄昏）：185
+* Finesse（精密操作）：65
+* fire（火）：92, 181
+* fist（拳）：176
+* flail（フレイル）：176, 177
+* Flambeau（フランボー）：8, 10, 11, 25, 30
+* Flawed Parma Magica（欠陥あるパルマ・マギカ）：54
+* Flawless Magic（《無欠な魔法》）：42
+* flaws（欠点）：18 virtues and flawsも参照
+* Flexible Formulaic Magic（《柔軟な定式魔法》）：42
+* flux（フラックス）：180
+* Folk Ken（人物眼）：65
+* food deprivation（食料欠乏）：180
+* form（形相）：115
+* Forms（形相）：78
+* formulaic magic（定式魔法）：8, 9, 81
+* Fortification（要塞）：74
+* Founders, the（祖師たち）：8, 9, 47
+* Fragile Constitution（虚弱体質）：54
+* France（フランス）：209, 210
+* Francis, Saint（聖フランチェスコ）：46, 199
+* Franciscan（フランシスコ会）：206
+* Free Expression（《独創性》）：42
+* Free Study（《自由な研究》）：42
+* friars（托鉢修道士）：206
+* full armor（全身鎧）：176
+* functionary（役人）：40
+* fur armor（毛皮の鎧）：176
+* Fury（激怒）：54
+* Gabriel（ガブリエル）：204
+* gaining or losing Boons or Hooks（恵みやコヴナント設定の獲得と喪失）：74
+* Galen（ガレノス）：66
+* gambeson（ギャンベゾン）：176
+* Garden of Eden（エデンの園）：202
+* Gauntlet (apprentice's)（ガントレット（徒弟の））：8, 107
+* gauntlet (armor)（ガントレット（防具））：176
+* Geas（ゲッシュ）：58
+* General Abilities（一般能力）：18, 63
+* General spells（一般呪文）：115
+* General Virtues and Flaws（一般美徳と欠点）：38-39
+* Generous（寛大）：54
+* gentiles（異教徒）：204
+* Gentle Gift（《穏和な天禀》）：12, 42, 75
+* Gentleman/woman（紳士／淑女）：42
+* geometry（幾何学）：62
+* gestures（身振り）：83
+* Ghostly Warder（《死霊の守護》）：43, 193
+* Giant Blood（《巨人の血脈》）：43
+* giants（巨人）：187
+* Gift of Youth (creature power)（若さの贈り物（クリーチャーパワー））：195
+* Gift, the（天禀）：8, 9, 14, 15, 17, 36, 43, 56, 75-77, 188, 196, 198
+* Glastonbury Abbey（グラストンベリー修道院）：188
+* gluttonous（大食漢）：Greedy参照
+* Goblin Blood（ゴブリンの血）：42
+* God（神）：9, 188, 189, 202-203, 204, 215
+* Golden Cord（黄金の紐）：104
+* Good Teacher（《教え上手》）：43
+* Gossip（《情報通》）：43
+* grace（恩寵）：64
+* grammar（文法）：62
+* Grand Tribunal（大評議会）：14
+* grapples（組みつき）：64
+* grappling（組み技）：174-175
+* Gratian（グラティアヌス）：64
+* Great (Characteristic)（《卓越（特性値）》）：43
+* great sword（グレートソード）：176, 177
+* Great Weapon（大型武器）：65
+* Greater Immunity（《耐性（大）》）：43
+* Greater Malediction（大いなる呪い）：54
+* Greater Purifying Touch（《清めの手（大）》）：43
+* Greed（強欲）：203
+* Greedy（強欲な）：54
+* Greek（ギリシャ語）：64
+* Gregory the Great（グレゴリウス1世）：203
+* grizzled veteran（歴戦の古兵）：21
+* grog（グロッグ）：4, 8, 17, 211, 215
+* grog templates（グロッグ・テンプレート）：20-21
+* group damage（集団ダメージ）：173
+* Group/Room（集団／部屋）：113
+* groups（集団）：172-173
+* Guardian Angel（《守護天使》）：43
+* Guernicus（ゲルニクス）：8, 11, 26, 30, Quaesitorも参照
+* guest storytelling（ゲスト・ストーリーテリング）：220
+* Guile（欺瞞）：65
+* Harnessed Magic（《手綱つき魔法》）：43
+* hatchet（手斧）：176, 177
+* Hatred（憎悪）：54
+* hauberk（ホーバーク）：176
+* Heady Brew (creature power)（陶酔の酒（クリーチャーパワー））：194
+* healing miracle（癒しの奇跡）：206
+* healing spells（治癒呪文）：180
+* Hearing（聴覚）：114
+* Heartbeast（《心獣》）：11, 43, 91
+* heat（熱）：181
+* heater shield（ヒーターシールド）：176, 177
+* Heaven（天国）：185, 203
+* heavy leather armor（ハードレザー）：176
+* Hebrew（ヘブライ語）：64
+* hedge magic（俗魔法）：8
+* Hedge Wizard（俗魔法使い）：11, 54
+* Heir（後継者）：54
+* Hell（地獄）：185, 186, 203
+* helmet（兜）：176
+* help in the laboratory（研究室での助手）：103
+* Herbam（ヘルバム／植物）：78, 135-139
+* heresy（異端）：67, 205
+* Hermes（ヘルメス）：184
+* Hermetic Arts（ヘルメス魔術の術法）：20, 77-79, 224
+* hermetic life（ヘルメスの生活）：222
+* Hermetic Magi（ヘルメス魔術師）：43, 198, 202, 212
+* Hermetic Magi recommended minimum abilities（ヘルメス魔術師の推奨最低能力値）：32
+* Hermetic Magic（ヘルメス魔術）：8, 75-93
+* Hermetic Oath（ヘルメス宣誓）：13
+* Hermetic Prestige（《ヘルメスの威光》）：43
+* Hermetic Reputation（ヘルメスの評判）：19
+* Hermetic Virtues and Flaws（ヘルメス美徳と欠点）：28, 36, 38-39
+* Hidden Resources（隠された資源）：74
+* hide（皮）：67
+* Hiems（冬）：70
+* high fantasy（ハイ・ファンタジー）：222
+* high vis（多量のウィース）：218
+* Higher Purpose（高尚な目的）：54
+* high-research saga（研究重視のサーガ）：221
+* Hippocrates（ヒポクラテス）：66
+* historical accuracy（歴史的正確性）：199
+* history（歴史）：216
+* holy days（祝日）：188
+* Holy Grail（聖杯）：215
+* Holy Orders（叙階）：203
+* Holy Sepulcher（聖墳墓）：188
+* hooks（コヴナント設定）：72-74, 212
+* Hope（希望）：203
+* house rules（ハウスルール）：217
+* Houses of Hermes（魔術団の流派）：10, 30
+* Human Form (creature power)（人間形態（クリーチャーパワー））：194
+* Humble（謙虚）：54
+* humors（体液）：66, 180
+* Hunchback（せむし）：55
+* Hunt（狩猟）：65
+* hunter（狩人）：21
+* ice（氷）：181
+* Ignem（イグネム／火）：78, 79, 139-143
+* Imaginem（イマーギネム／幻）：79, 143-147
+* impact（衝撃）：181
+* Improved Characteristics（特性値強化）：43
+* incapacitation（行動不能）：179
+* Incarnation（受肉）：202
+* Incompatible Arts（相容れない術法）：55
+* Incomprehensible（理解不能）：55
+* Indiscreet（口が軽い）：55
+* Individual/Circle（個人／円）：112
+* Infamous（悪名高い）：55
+* Infamous Master（悪名高い師匠）：55
+* infernal aura（地獄のオーラ）：183, 186
+* infernal creatures（地獄のクリーチャー）：186, 196-198
+* Infernal Lore（地獄知識）：65
+* Infernal Might（地獄の実力値）：Might参照
+* Infernal, limit of（地獄の限界）：80
+* Infernal, the（地獄）：8, 85, 182, 186, 217
+* inheritance（遺産）：205, 208
+* Initial Bond（初期の絆）：104
+* initiative example（イニシアチブの例）：172
+* initiative total（イニシアチブ合計）：171
+* injuries（負傷）：181
+* inn（宿屋）：76
+* Inner Warmth (creature power)（内なる暖かさ（クリーチャーパワー））：195
+* Inoffensive to Animals（動物に嫌われない）：43
+* Inspiration（インスピレーション）：44
+* Instill Loyalty (creature power)（忠誠の植え付け（クリーチャーパワー））：194
+* instilling effects（効果の付与）：98-100
+* Intellego（インテレゴ／【知覚】）：77, 113
+* Intelligence（【知性】）：18
+* intercession（とりなし）：204
+* interfering with mundanes（俗世への干渉）：14
+* Intrigue（策謀）：65
+* Intuition（直感）：44
+* inventing spells（呪文の発明）：95, 108
+* Inventive Genius（発明の天才）：44
+* invested items（インベスト・アイテム）：96
+* investigating enchantments（呪付の調査）：100, 108
+* investigations（調査）：222
+* Ireland（アイルランド）：209
+* iron, molten（溶けた鉄）：181
+* Islam（イスラム教）：182, 188, Muslimsも参照
+* javelin（ジャベリン）：177
+* Jerbiton（イェルビトン）：8, 10, 12, 26, 30
+* Jerusalem（エルサレム）：216
+* Jesus Christ（イエス・キリスト）：202
+* Jews（ユダヤ人）：57, 182, 188, 189, 203, 205, 206, 217
+* Judged Unfairly（不当な評価）：55
+* judges（裁判官）：205
+* juggling（ジャグリング）：50
+* jumping（跳躍）：64
+* Justinian（ユスティニアヌス）：64
+* ka'aba（カアバ）：188
+* Keen Vision（鋭い視覚）：44
+* kick（蹴り）：176, 177
+* kinesis（念動力）：193
+* knife（ナイフ）：64, 176, 177
+* knife throwing（ナイフ投げ）：50
+* Knight（騎士）：23, 44
+* lab total（研究値）：94, 183, 223
+* laboratory（研究所／ラボ）：94-110
+* laboratory texts（研究書巻）：45, 71, 101-102, 223
+* laboratory work（研究作業）：163
+* Lady Chapel（聖母礼拝堂）：188
+* Lame（足が不自由）：55
+* lance（ランス）：176, 177
+* Landed Noble（領地持ち貴族）：44
+* Large（大柄）：44
+* Latent Magical Ability（潜在的魔力）：44
+* later life（その後の人生）：31
+* Latin（ラテン語）：64
+* law（法律）：40, 66; common law, civil law, canon lawも参照
+* lead, molten（溶けた鉛）：181
+* Leadership（指揮）：65
+* Learn (Ability) from Mistakes（失敗から学ぶ（能力））：44
+* learning Supernatural Abilities（超常能力の学習）：166
+* leather scale armor（レザースケール）：176
+* leaving regiones（レギオーからの脱出）：189
+* Lecherous（好色）：55
+* lector（朗読者）：40, 203
+* Legerdemain（手品）：65
+* lending money（金貸し）：205
+* lesser enchantments（簡易呪付）：96
+* Lesser Immunity（部分的な耐性）：44
+* Lesser Limits（小限界）：80
+* Lesser Malediction（小なる呪い）：55
+* Lesser Purifying Touch（《清めの手（小）》）：44
+* levels（レベル）：111, 115
+* levels of regiones（レギオーのレベル）：189
+* liberal arts（自由学科）：Artes Liberales参照
+* library（図書室）：71, 214
+* Libri Almagesti（アルマゲスト）：62
+* Life Boost（生命力ブースト）：44
+* Life-Linked Spontaneous Magic（生命連結即興魔法）：44
+* Light Touch（器用な指先）：45
+* Lightning Reflexes（電光石火の反応）：45
+* Limited Magic Resistance（限定された魔法抵抗）：55
+* Limits（限界）：163
+* experience source level limits（経験源レベルの限界）：164
+* Limits of Magic（魔法の限界）：79, 223
+* linked trigger（連動トリガー）：99
+* living conditions（生活環境）：170
+* living in strong auras（強力なオーラ内での生活）：167
+* (Living Language)（生きた言語）：66
+* Load（負荷）：178
+* Local Reputation（地域の評判）：19
+* logic（論理学）：62
+* logica nova（新論理学）：62
+* logica vetus（旧論理学）：62
+* long sword（ロングソード）：176, 177
+* longbow（ロングボウ）：177
+* Longevity Rituals（延命儀式）：51, 101, 108
+* long-term fatigue（長期疲労）：178, 181
+* Long-Winded（長話）：45
+* Loose Magic（散漫な魔術）：55
+* lord（領主）：207
+* Lord Marsyne（マーサイン卿）：195-196
+* Lord of Ice (creature power)（氷の王（クリーチャーパワー））：195
+* Lord of the Castle (creature power)（城の主（クリーチャーパワー））：195
+* Lost Love（失われた愛）：55
+* Love（愛）：203
+* Low Self-Esteem（自尊心が低い）：55
+* low vis（少量のウィース）：218
+* low-research saga（研究軽視のサーガ）：221
+* loyal（忠実）：19
+* Luck（幸運）：45
+* Lunar Sphere, limit of（月天の限界）：80
+* Lupersus（ルペルサス）：198
+* Lust（色欲）：203
+* Lycanthrope（狼憑き）：55
+* lye（灰汁）：181
+* mace（メイス）：176, 177
+* mace and chain（フレイル）：176, 177
+* magi（魔術師）：211
+* Magic (creature power)（魔力（クリーチャーパワー））：198
+* Magic（魔術）：8, 174
+* Magic Addiction（魔術中毒）：56
+* magic and sin（魔法と罪）：202
+* magic aura（魔法のオーラ）：183, 184, 185
+* Magic Lore（魔法知識）：66
+* Magic Might（魔法の実力値）：Might参照
+* Magic Realm（魔法の領域）：182, 184-185
+* magic resistance（魔法抵抗）：85-86, 87, 183, 184, 189, 191
+* Magic Sensitivity（魔法感受性）：45, 66, 189
+* Magic Theory（魔法理論）：66
+* Magical Air（魔法の雰囲気）：56
+* Magical Animal Companion（魔法の動物の相棒）：56
+* magical creatures（魔法のクリーチャー）：184
+* Magical Foci（魔法の焦点）：45-46
+* magical items（魔法のアイテム）：16
+* Magical Memory（魔法の記憶）：45
+* Magical Senses（魔法の感覚）：113-114, 223
+* magical wolf（魔法の狼）：193
+* Magister in Artibus（学芸修士）：45
+* magnitudes（等級）：111
+* magus (also maga, magi)（マギ／魔術師）：4, 8, 17
+* magus templates（魔術師テンプレート）：24-28
+* Major Magical Focus（大いなる魔法の焦点）：45
+* Major Personality Flaws（大いなる性格の欠点）：37
+* Major Story Flaws（大いなる物語の欠点）：37
+* Marked Quarry (creature power)（標的（クリーチャーパワー））：195
+* markets（市場）：209
+* marriage（結婚）：203, 205
+* Martial Abilities（武術能力）：18, 63
+* martyrdom（殉教）：188
+* Mass（ミサ）：204
+* Master of Fire (creature power)（火の支配者（クリーチャーパワー））：194
+* Mastered Spells（習得呪文）：46
+* Mastery（習得）：Spell Mastery参照
+* Mateos, the Faerie Butler（妖精の執事マテオス）：194-195
+* Material and Size Tables（物質・サイズ表）：97
+* materials（物質）：176
+* Meddler（おせっかい）：56
+* Medicine（医学）：66, 180
+* medieval paradigm（中世のパラダイム）：95
+* medium covenant（中規模コヴナント）：72
+* medium saga（中速度のサーガ）：218
+* medium-research saga（中程度の研究サーガ）：221
+* mendicant friars（托鉢修道士）：46, 206
+* Mentem（メンテム／心）：79, 148-152, 212
+* Mentor（導師）：56
+* Mercenary Captain（傭兵隊長）：46
+* Mercere（メルケーレ）：8, 12, 26, 30, 48, Redcapsも参照
+* Merchant（商人）：46
+* Merchant's Blessing (creature power)（商人の祝福（クリーチャーパワー））：197
+* Merchant's Curse (creature power)（商人の呪い（クリーチャーパワー））：197
+* Merchant's Knowledge (creature power)（商人の知識（クリーチャーパワー））：197
+* Mercurian Magic（メルクリウス魔術）：46
+* Mercury（メルクリウス）：9, 46, 215
+* Merinita（メリニータ）：8, 9, 10, 12, 27, 30, 42, 92, 188
+* metal reinforced leather armor（リングメイル）：176
+* metal scale armor（スケールメイル）：176
+* Metaphysica（形而上学）：67
+* Michael（ミカエル）：196, 204
+* Might（実力値）：191, 192
+* Minor Magical Focus（小なる魔法の焦点）：46
+* minor orders（下級聖職位）：40
+* Minor Personality Flaws（小なる性格の欠点）：37
+* Minor Story Flaws（小なる物語の欠点）：37
+* miracles（奇跡）：189, 206, 206, 217
+* mischievous childhood（わんぱくな幼少期）：31
+* missile combat（射撃戦闘）：172
+* missile weapons（射撃武器）：177
+* Missing Ear（耳欠損）：56
+* Missing Eye（片目）：56
+* Missing Hand（片手）：56
+* Mistaken Identity（人違い）：56
+* moderate vis（中程度のウィース）：218
+* Momentary（瞬間）：112
+* monasteries（修道院）：188, 206
+* monastic offices（聖務日課）：206
+* monastic rule（修道会則）：206
+* Monastic Vows（修道誓願）：46, 56
+* monks（修道士）：206
+* monkshood（トリカブト）：180
+* Monster（怪物）：73
+* Montpellier（モンペリエ）：45
+* Moon（月）：112
+* Moors（ムーア人）：57, Muslimsも参照
+* Moses（モーゼ）：204
+* mosques（モスク）：188
+* Motion Sickness（乗り物酔い）：56
+* mounted combat（騎乗戦闘）：174
+* multiple casting（多重詠唱）：87
+* mundane（俗世）：189
+* mundane interactions（俗世との交流）：222
+* Mundane Lord（俗世の領主）：70
+* mundanes（俗人）：14
+* music（音楽）：62, 66
+* Muslims（イスラム教徒）：182, 188, 189, 206, 217
+* Mute（唖）：56
+* Muto（ムト／変成）：78
+* Mysteries（秘儀）：91-93
+* Mystery Cults（秘儀魔術団）：10, 11, 30, 91, 223
+* Mythic Blood（神話的な血）：47
+* Mythic Europe（伝承ヨーロッパ）：4, 8, 9, 186, 189, 199-210, 216; map 200-201
+* Necessary Condition（必須条件）：56
+* necromancy（死霊術）：45
+* No Hands（両手欠損）：56
+* No Sense of Direction（方向音痴）：56
+* nobles（貴族）：15, 42, 44, 199, 207-208, 222
+* Nocturnal（夜行性）：56
+* Noncombatant（非戦闘員）：56
+* non-lethal combat（非致傷戦闘）：174
+* no-research saga（研究なしのサーガ）：221
+* Oath of Fealty（忠誠の誓い）：44, 56
+* Obese（肥満）：57
+* Obsessed（執着）：57
+* Offensive to Animals（動物に嫌われる）：57
+* Old Ones（古き者たち）：215
+* Optimistic（楽観的）：57
+* Order of Hermes（ヘルメス魔術団）：4, 8, 68, 75, 186, 210, 214, 216, 220; history of（歴史） 9
+* ordination（叙階）：203
+* Ordo Miscellanea（オルド・ミセラニア）：10
+* (Organization) Lore（組織知識）：66
+* Original Sin（原罪）：202
+* Outcast（追放者）：57
+* outfittings（装備品）：176
+* Outlaw（無法者）：57
+* Outlaw Leader（無法者のリーダー）：57
+* Outsider（よそ者）：57
+* Overconfident（自信過剰）：57
+* Oversensitive（過敏）：57
+* Oxford（オックスフォード）：45
+* pack of one（一匹狼）：193
+* pagan（異教徒）：187
+* pagan deities（異教の神々）：184
+* Painful Magic（苦痛の魔術）：57
+* Palsied Hands（震える手）：57
+* Papal bulls（教皇教書）：64
+* parens（恩師／師匠）：8, 107
+* Paris（パリ）：45, 216
+* Parma Magica（パルマ・マギカ）：8, 9, 16, 40, 66, 76, 85, 105, 215, 223
+* Part（部分）：112
+* partial armor（部分鎧）：176
+* Paul, Saint（聖パウロ）：204
+* pawn（ポーン）：80
+* Peasant（農民）：47, 15, 210
+* penance（贖罪）：203
+* Penetration（貫通）：66, 82, 84, 87, 99, 183, 184, 191, 223
+* Perception（【知覚】）：18
+* Perdo（ペルド／破壊）：78
+* Perfect Balance（完璧なバランス）：47
+* Perfect Defender (creature power)（完璧な守り手（クリーチャーパワー））：198
+* Peripheral Code（附則法）：11, 13, 14, 15, 64
+* Personal（自身）：111
+* Personal Vis Source（個人のウィース源）：47
+* Personality Flaws（性格の欠点）：37
+* Personality Rolls (table)（性格ロール（表））：19
+* Personality Traits（性格）：18, 20, 33, 192
+* Pessimistic（悲観的）：57
+* Peter, Saint（聖ペテロ）：204
+* Philosophiae（自然哲学）：66
+* philosophy（哲学）：188
+* phlegm（粘液）：66, 180
+* Physica（自然学）：67
+* physician（医師）：66
+* Piercing Gaze（鋭い眼光）：47
+* pilgrimage（巡礼）：199, 203, 204, 206, 207
+* Pious（敬虔）：58
+* Plagued by Supernatural Entity（超常的存在に悩まされる）：58
+* Platonic Forms（プラトンのイデア）：185
+* Platonic philosophy（プラトン哲学）：182
+* plots（プロット）：211
+* poisons（毒）：180
+* Polandrus（ポランドラス）：197
+* pole arm（ポールアーム）：176, 177
+* pole axe（ポールアックス）：176, 177
+* Politica（政治学）：67
+* politics（政治）：73, 214, 215, 222
+* pooled characters（プールされたキャラクター）：219-220
+* Poor (Characteristic)（貧弱な（特性値））：58
+* Poor（貧乏）：58
+* Poor Eyesight（視力弱）：58
+* Poor Formulaic Magic（定式魔法苦手）：58
+* Poor Hearing（聴力弱）：58
+* Poor Memory（記憶力弱）：58
+* Poor Student（劣等生）：58
+* Pope（教皇）：204
+* Poverty（貧困）：73
+* powerful covenant（強力なコヴナント）：72
+* Powerful Location（強力な場所）：70
+* Practice experience（実践経験点）：164
+* Praeco（プレコ）：14
+* Pralix（プラリクス）：10
+* Premonitions（予感）：47, 67
+* preparing for enchantment（呪付の準備）：97
+* Presence（【魅力】）：18
+* Prestige（威信）：74
+* Prey's Vigor (creature power)（獲物の活力（クリーチャーパワー））：195
+* Pride（傲慢）：203
+* priest（司祭）：23, 47, 188, 203, 204
+* Primus（首座）：14
+* Priscian（プリスキアヌス）：62
+* Privileged Upbringing（裕福な生い立ち）：47
+* proactive stories（能動的な物語）：212
+* Profession（職業）：67
+* Profession: Scribe（職業：写字生）：166
+* profit（利益）：205
+* Prohibition（禁忌）：58
+* Project Blessing (creature power)（祝福の投射（クリーチャーパワー））：197
+* Project Curse (creature power)（呪いの投射（クリーチャーパワー））：197
+* Protection（保護）：47
+* Protector（保護者）：73
+* Proud（誇り高い）：58
+* Ptolemy（プトレマイオス）：62
+* Puissant (Ability)（強力な（能力））：48
+* Puissant (Art)（強力な（術法））：48
+* pulsed saga（断続的なサーガ）：219
+* punches（パンチ）：64
+* punishment miracle（懲罰の奇跡）：206
+* pure fantasy saga（純ファンタジーサーガ）：220
+* pure troupe style（純粋なトゥループ・スタイル）：220
+* Purgatory（煉獄）：203
+* Quadrivium（四科）：62
+* Quaesitor（審問士）：8, 10, 11, 13, 14, 73, 107, Guernicusも参照
+* quality（品質）：165
+* quartan fever（四日熱）：180
+* queen（女王）：80
+* quests（探求）：214, 215
+* quicklime（生石灰）：181
+* Quickness（【反応】）：18
+* quiet casting（無言詠唱）：87
+* Quiet Magic（《静かな魔法》）：48
+* quilted armor（キルトアーマー）：176
+* quotidian fever（日毎熱）：10
+* raising the dead（死者蘇生）：25, 206
+* ranges（射程）：95, 111, 114, 223
+* Rapid Convalescence（急速回復）：48
+* raw vis（ロウ・ウィース）：vis参照
+* reactive stories（受動的な物語）：212
+* read and write（読み書き）：62
+* realm auras（領域のオーラ）：183
+* Realms of Power（力の領域）：63, 182-190
+* Reckless（無鉄砲）：58
+* Reclusive（隠遁者）：58
+* recovery from fatigue（疲労からの回復）：178
+* recovery from incapacitation（行動不能からの回復）：179
+* recovery from powers（能力からの回復）：192
+* recovery from wounds（負傷からの回復）：179
+* rector（教区牧師）：205
+* Redcap（赤帽子）：8, 10, 12, 15, 48, 75, Mercereも参照
+* regio (pl. regiones)（レギオー）：73, 74, 183, 189-190, 210, 213
+* regio sight roll（レギオー視認ロール）：189
+* regional tribunals（地方評議会）：15
+* Rego（レゴ／操作）：78
+* regular clergy（修道司祭）：206
+* relics（聖遺物）：48, 188, 189, 204, 206, 214
+* Renouncing（追放）：13
+* Reputation Ease Factor (table)（評判目標値（表））：19
+* Reputations（評判）：19, 20, 33, 167, 192
+* requests for assistance（援助の要請）：213
+* requisites（制約術法）：114-115
+* research（研究）：220
+* Reserves of Strength（余力）：48
+* resources（資源）：71, 205, 218
+* Restriction（制限）：58
+* Resurrection（復活）：202
+* rhetoric（修辞学）：62
+* Ride（乗馬）：67
+* Rigid Magic（融通の利かない魔術）：58
+* Ring（円）：112
+* Ritual Magic（儀式魔法）：46, 81
+* ritual spells（儀式呪文）：114, 115
+* Rival（ライバル）：73
+* Road（道）：74, 92
+* rogue（悪党）：23
+* Roman Cult of Mercury（ローマのメルクリウス魔術団）：Cult of Mercury参照
+* Roman law（ローマ法）：205
+* Rome（ローマ）：216
+* rook（ルーク）：80
+* Room（部屋）：113
+* round shield（ラウンドシールド）：176, 177
+* rule（会則）：monastic rule参照
+* running（走る）：64
+* sacraments（秘跡）：203
+* saga speed（サーガの速度）：219
+* saga styles（サーガのスタイル）：222
+* sagas（サーガ）：6, 216-222
+* saints（聖人）：64, 202, 204
+* Salamanca（サラマンカ）：45
+* Sample Childhoods（幼少期の例）：31
+* Saracens（サラセン人）：57
+* Satan（サタン）：202
+* Satyr Blood（サテュロスの血）：42
+* Schism War（分裂大戦）：8, 10
+* scholar（学者）：22, 206
+* scribe（写字生）：40, 166
+* scry（覗き見）：13, 14, 223
+* scuffling（取っ組み合い）：174-175
+* sea（海）：181
+* searching（捜索）：64
+* seasons（季節）：68, 163
+* Seclusion（隔離）：74
+* Secondary Insight（副次的洞察）：48
+* Second Sight（霊視）：43, 48, 49, 67, 189
+* secular clergy（教区司祭）：206
+* secular law（世俗法）：40
+* Seferiel（セフェリエル）：198
+* Self-Confident（自信家）：48
+* Sense Holiness and Unholiness（聖邪感知）：48, 63, 67, 189
+* setting bones（接骨）：64
+* shape and material（形状と材質）：97
+* Shape and Material Bonuses table（形状・材質ボーナス表）：110
+* shapechangers（変身能力者）：184
+* Shapeshift（変身）：48
+* Shapeshifter（変身能力者）：48, 67, 208
+* Sharp Ears（地獄耳）：48
+* Sheltered Upbringing（箱入り）：58
+* shield（盾）：67, 176, 177
+* Short Attention Span（注意散漫）：58
+* shortbow（ショートボウ）：177
+* Short-Lived Magic（短命な魔術）：59
+* Short-Ranged Magic（短射程の魔術）：59
+* short spear（ショートスピア）：176, 177
+* short sword（ショートソード）：176, 177
+* short-term fatigue（短期疲労）：178
+* Side Effect（副作用）：48
+* Sidhe Blood（シーの血）：42
+* Sight（視覚）：112
+* sigils（印）：12, 86, 95, 116
+* Silent Running (creature power)（静かな走り（クリーチャーパワー））：195
+* Silver Cord（銀の紐）：104
+* similar spells（類似の呪文）：101
+* simple die（単純ダイス）：6
+* Simple-Minded（単純）：59
+* Single Weapon（片手武器）：67
+* size（サイズ）：18, 20, 192
+* Skilled Parens（熟練した師匠）：48
+* Skinchanger（皮を変える者）：48
+* sling（スリング）：177
+* Sloth（怠惰）：203
+* Slow Caster（遅い詠唱者）：59
+* slow saga（進行の遅いサーガ）：218
+* Small Frame（小柄）：59
+* Smell（嗅覚）：114
+* sneak（忍び歩き）：67
+* Soak（防御力）：20, 78, 79, 104, 192
+* soak total（防御合計）：171
+* soap opera（ソープオペラ）：213
+* social childhood（社交的な幼少期）：31
+* Social Contacts（社会的コネ）：49
+* Social Handicap（社会的ハンディキャップ）：59
+* Social Status（社会的地位）：28, 36, 38-39
+* Societas (pl. Societates)（ソキエタス）：30, 223
+* sodalis (pl. sodales)（同志）：8
+* Soft-Hearted（心優しい）：59
+* soldier（兵士）：22
+* Soul, limit of（魂の限界）：80
+* soul（魂）：203
+* spear（槍）：176, 177
+* Special Circumstances（特別な状況）：49
+* special effects（特殊効果）：175
+* specialist（スペシャリスト）：21, 72
+* Specializations（専門）：62
+* spell（呪文）：8
+* spellcasting options（呪文行使オプション）：82
+* spellcasting rolls（呪文行使ロール）：183
+* spell damage（呪文ダメージ）：116
+* spell design（呪文設計）：111-115
+* spell guidelines（呪文のガイドライン）：223
+* Spell Mastery（呪文の習熟）：46, 86-87, 223
+* spells（呪文）：81, 94-95, 111-162
+* Spells Known（既知の呪文）：20
+* Spirit Form (creature power)（霊体化（クリーチャーパワー））：198
+* spirits（精霊）：184, 196
+* splitting groups（グループ分割）：175
+* spontaneous magic（即興魔法）：8, 81, 83
+* spontaneous requisites（即興呪文の制約術法）：115
+* Spring（春）：68
+* staff（杖）：176, 177
+* Stamina（【体力】）：18
+* standard soldier（一般兵士）：22
+* starting character age（開始時のキャラクター年齢）：29
+* Stealth（隠密）：67
+* Stellatus, the Dragon（ドラゴン、ステラトゥス）：194
+* still casting（不動詠唱）：87
+* stone（石）：177
+* stories（物語）：211-215
+* Story Flaws（物語の欠点）：28
+* Storyguide（ストーリーガイド）：4
+* story ideas（物語のアイデア）：213-215
+* storytelling（語り）：50
+* Strength（【筋力】）：18
+* stress die（ストレス・ダイス）：6
+* Strong Faerie Blood（強力な妖精の血）：49
+* Strong-Willed（意志強固）：49
+* Structure（構造物）：113
+* structures（建造物）：204, 205
+* Struggling（苦闘）：70
+* student（学生）：40
+* Student of (Realm)（～の探求者（領域））：49
+* Study Bonus（研究ボーナス）：49
+* Study Requirement（研究要件）：59
+* sub-deacon（副助祭）：203
+* substances（物質）：77
+* Subtle Form (creature power)（希薄化（クリーチャーパワー））：198
+* Subtle Magic（目立たない魔術）：49
+* summa（スンマ）：71, 165
+* Summer（夏）：68
+* Sun/Ring（日／円）：112
+* Sundering, the（大分断）：10
+* Superiors（上官）：74
+* Supernatural Abilities（超常能力）：18, 62, 63
+* Supernatural Nuisance（超常的厄介事）：59
+* Supernatural Virtues and Flaws（超常的美徳と欠点）：36, 38-39
+* surgery（手術）：64
+* Survival（生存）：67
+* Susceptibility to Divine Power（聖なる力への脆弱性）：59
+* Susceptibility to Faerie Power（妖精の力への脆弱性）：59
+* Susceptibility to Infernal Power（地獄の力への脆弱性）：59
+* Swim（水泳）：67
+* sword（剣）：176, 177
+* sympathetic connections（共感連鎖）：84
+* sympathetic magic（共感魔法）：223
+* tainted vis（汚染されたウィース）：190
+* Tainted with Evil（悪に染まった）：59
+* taking communion（聖体拝領）：204
+* talisman（タリスマン）：84, 95, 98
+* targets（目標）：95, 112-113, 114, 223
+* Targets and Sizes（目標とサイズ）：113
+* Tarlan the Wolf（狼ターラン）：195
+* Tasgillia（タスギリア）：10
+* Taste（味覚）：114
+* teacher（教師）：95, 72
+* teaching（指導）：45, 67, 164-165
+* Techniques（技法）：77, 115
+* Temperate（節制）：59
+* Temporal Influence（俗世への影響力）：49
+* Terram（テルラム／地）：79, 152-156
+* terrifying howl（恐ろしい遠吠え）：193
+* theological virtues（対神徳）：203
+* Theology（神学）：66, 67
+* theory of Hermetic magic（ヘルメス魔術の理論）：9
+* Three Cords（三本の紐）：104
+* throwing axe（投擲斧）：177
+* Thrown Weapon（投擲武器）：67
+* Time, limit of（時間の限界）：80
+* tithe（十分の一税）：205
+* tonsure（トンスラ）：203
+* Tormenting Master（意地の悪い師匠）：59
+* Touch（接触）：114
+* Touch/Eye（接触／目）：111
+* Tough（タフ）：49
+* tough guy（タフガイ）：22
+* tournaments（トーナメント）：207-208
+* towns（町）：209-210, 213
+* tractatus（トラクタトゥス）：71, 165
+* trade（交易）：209
+* traders（商人）：210, 222
+* trained group（訓練された集団）：173
+* training（訓練）：164
+* training apprentices（徒弟の訓練）：106-107
+* Trajan, emperor（トラヤヌス帝）：203
+* Transvestite（異性装）：59
+* travel（旅行）：181, 207
+* traveling childhood（旅する幼少期）：31
+* treasure hunting（トレジャーハンティング）：213, 214
+* Tree of Knowledge of Good and Evil（善悪の知識の木）：186
+* Tremere（トレメーレ）：8, 10, 12, 27, 30
+* Trianoma（トリアノマ）：8, 9, 11
+* tribunals（評議会）：8, 9, 14, 64, 215, 216
+* trigger（トリガー）：99
+* Trivium（三科）：62
+* troupe-style roleplaying（トゥループ・スタイル・ロールプレイング）：4, 211, 219-220
+* Troupe Upbringing（トゥループ育ち）：50
+* True Faith（真の信仰）：50, 188, 189, 198, 215
+* True Feeling, limit of（真の感情の限界）：80
+* True Friend（真の友）：50, 53
+* True Lineages（真正の血統）：10, 11, 30, 223
+* True Love（まことの愛）：50, 59
+* tumbling（タンブリング）：50
+* Twelve Founders（12人の祖師）：the Founders参照
+* Twilight（黄昏）：Wizard's Twilight参照
+* Twilight Prone（黄昏に陥りやすい）：60
+* Twilight Scars（黄昏の痕跡）：20, 89
+* Tytalus（テュータルス）：8, 12, 27, 30
+* Tytalus corruption of（テュータルスの堕落）：10
+* Unaging（不老）：50, 166
+* Undine Blood（ウンディーネの血）：42
+* Unending Drinks (creature power)（尽きせぬ酒（クリーチャーパワー））：194
+* Unimaginative Learner（想像力に欠ける生徒）：60
+* universities（大学）：45
+* Unknown Hook（未知のコヴナント設定）：73
+* Unpredictable Magic（予測不能な魔術）：60
+* Unstructured Caster（型破りな詠唱者）：60
+* Until (Condition)（～まで（条件））：92
+* untrained group（未訓練の集団）：173
+* Urban（都会）：70, 74
+* using enchanted devices（呪付装置の使用）：100
+* using experience points（経験点の使用）：163
+* vambraces（腕甲）：176
+* vassal（家臣）：207
+* Venus Blessing（ヴィーナスの祝福）：50
+* Verditius（ウェルディーティウス）：8, 9, 12, 28, 30, 50, 93, 214
+* Verditius Magic（ウェルディーティウス魔術）：50, 93, 93
+* Vernus（春）：68
+* veteran（ベテラン）：21
+* Vicar of Christ（キリストの代理人）：Pope参照
+* villages（村）：76, 213
+* Vim（ウィム／力）：79, 156-162
+* Virgin Mary（聖母マリア）：188, 204
+* Virtues and Flaws（美徳と欠点）：18, 20, 28, 36-61, 192, 218, 223, 224
+* Vis, limit of（ウィースの限界）：80
+* vis（ウィース）：8, 72, 80, 82, 94, 165, 187, 190, 192, 213, 214, 223
+* Vision（幻視）：60, 114
+* vis sources（ウィース源）：190, 213, 218
+* vitriol（硫酸）：181
+* Voice（声）：112
+* Vow（誓い）：60
+* vows（誓願）：206
+* vows of poverty, chastity and obedience（清貧・貞潔・服従の誓い）：46
+* waiting spell（待機呪文）：100, 162
+* Wanderer（放浪者）：50
+* wards（結界）：114, 120, 124, 129, 134, 138, 143, 151, 155, 161, 223
+* warhammer（ウォーハンマー）：176, 177
+* Warped Magic（歪んだ魔術）：60
+* Warping（歪曲）：88, 167-168, 224
+* Warping, limit of（歪曲の限界）：80
+* Warping Points（歪曲ポイント）：52, 87
+* warping score（歪曲スコア）：20, 192
+* Warrior（戦士）：50
+* Waster of Vis（ウィースの浪費家）：61
+* water deprivation（水欠乏）：180
+* Ways of the (Land)（～の流儀（土地））：50
+* Weak Characteristics（虚弱な特性値）：61
+* weak covenant（弱小コヴナント）：72
+* Weak Enchanter（未熟なエンチャンター）：61
+* Weak Magic（弱い魔術）：61
+* Weak Magic Resistance（弱い魔法抵抗）：61
+* Weak Parens（未熟な師匠）：61
+* Weak Scholar（未熟な学者）：61
+* Weak Spontaneous Magic（未熟な即興魔法）：61
+* Weakness（弱点）：61
+* Weak-Willed（意志薄弱）：61
+* Wealth（富）：74
+* Wealthy（裕福）：50
+* Weird Magic（奇妙な魔術）：61
+* Well-Traveled（旅慣れた）：50
+* Wilderness Sense（山野の知恵）：50, 67
+* Winter（冬）：70
+* Winter Ruins（冬の廃墟）：70
+* Wise One（賢者）：50
+* witch（魔女）：23
+* Wizard's Communion（ウィザーズ・コミュニオン）：46, 160
+* Wizard's March（ウィザーズ・マーチ）：13, 64, 66
+* wizard's sigil（魔術師の印）：sigil参照
+* Wizard's Twilight（ウィザーズ・トワイライト）：11, 79, 87, 88-89, 185, 218, 224
+* Wizard's War（ウィザーズ・ウォー）：10, 13, 14, 215
+* wolf lord（狼の王）：193
+* words and gestures（言葉と身振り）：83
+* Working Material (creature power)（素材加工（クリーチャーパワー））：196
+* wound penalties（負傷ペナルティ）：20, 192
+* Wound Recovery Table（負傷回復表）：179
+* Wound Table（負傷表）：179
+* wounds（負傷）：178-180
+* Wrath（憤怒）：203
+* Wrathful（激昂）：61
+* writing books（執筆）：165
+* Year（年）：112
+* Year +1（年+1）：93
+* yellow bile（黄胆汁）：66, 180
