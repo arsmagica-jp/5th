@@ -17,7 +17,8 @@
 ### 翻訳担当
 
 - ながみゆきと（[@nagamiyukito](https://x.com/nagamiyukito)）：13章
-- Regulus：3章,9章,12章,14-16章
+- Regulus（[@Regulussem](https;//x.com/Regulussem), kasahara.cembalo@gmail.com, https://magica.sakura.ne.jp/partestrada/
+）：3章,9章,12章,14-16章
 
 ### 編集
 
