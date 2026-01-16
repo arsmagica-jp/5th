@@ -6,7 +6,7 @@
 * Abilities with no score（スコアのない能力）：62
 * Ability Block（苦手分野）：51
 * ability rolls（能力ロール）：183
-* ability summae（能力のスンマ）：71
+* ability summae（能力の大全書）：71
 * Abraham（アブラハム）：204
 * Academic Abilities（学術能力）：18, 45, 63
 * Academic Knowledges（学術知識）：64
@@ -49,8 +49,8 @@
 * anatomy（解剖学）：66
 * angel（天使）：64, 196, 198, 202
 * Animal（アニマル／動物）：78, 116-120
-* Animal Companion（動物の相棒）：51
-* Animal Handling（動物使い）：62
+* Animal Companion（《友なる動物》）：51
+* Animal Handling（動物の扱い）：62
 * Animal Ken（《動物理解》）：40, 62
 * annulments（婚姻無効）：203
 * apothecary（薬剤師）：66
@@ -76,7 +76,7 @@
 * arithmetic（算術）：62
 * armor（鎧）：176
 * arsenic（ヒ素）：180
-* art summae（術法のスンマ）：71
+* art summae（術法の大全書）：71
 * Artes Liberales（自由学科）：41, 45, 62
 * Arthritis（関節炎）：51
 * Arts（術法）：Hermetic Arts参照
@@ -142,7 +142,7 @@
 * Bronze Cord（銅綬）：104
 * buckler（バックラー）：176, 177
 * Buildings（建造物）：74
-* Busybody（おせっかい）：52
+* Busybody（《詮索好き》）：52
 * Calm Person (creature power)（沈静化（クリーチャーパワー））：197
 * Cambridge（ケンブリッジ）：45
 * canon law（教会法）：40, 46, 64, 205
@@ -288,7 +288,7 @@
 * decrepitude（老衰）：20, 170, 192
 * Decretum（教令集）：64
 * defender（護衛）：173
-* defense total（防御合計）：171
+* defense total（吸収値合計）：171
 * Deficient Form（《苦手な形相》）：53
 * Deficient Technique（《苦手な技法》）：53
 * Deft Form（《巧みな形相》）：41
@@ -491,7 +491,7 @@
 * Gossip（《情報通》）：43
 * grace（恩寵）：64
 * grammar（文法）：62
-* Grand Tribunal（大評議会）：14
+* Grand Tribunal（大トリビューナル）：14
 * grapples（組みつき）：64
 * grappling（組み技）：174-175
 * Gratian（グラティアヌス）：64
@@ -503,7 +503,7 @@
 * Greater Purifying Touch（《清めの手（大）》）：43
 * Greed（強欲）：203
 * Greedy（《大食漢》）：54
-* Greek（ギリシャ語）：64
+* Greek（〈ギリシャ語〉）：64
 * Gregory the Great（グレゴリウス1世）：203
 * grizzled veteran（歴戦の古兵）：21
 * grog（グロッグ）：4, 8, 17, 211, 215
@@ -578,15 +578,15 @@
 * Improved Characteristics（特性値強化）：43
 * incapacitation（行動不能）：179
 * Incarnation（受肉）：202
-* Incompatible Arts（相容れない術法）：55
-* Incomprehensible（理解不能）：55
-* Indiscreet（口が軽い）：55
-* Individual/Circle（個人／円）：112
-* Infamous（悪名高い）：55
-* Infamous Master（悪名高い師匠）：55
+* Incompatible Arts（《相容れない術法》）：55
+* Incomprehensible（《理解不能》）：55
+* Indiscreet（《口が軽い》）：55
+* Individual/Circle（個人／円内）：112
+* Infamous（《悪名高い》）：55
+* Infamous Master（《不名誉な師匠》）：55
 * infernal aura（地獄のオーラ）：183, 186
 * infernal creatures（地獄のクリーチャー）：186, 196-198
-* Infernal Lore（地獄知識）：65
+* Infernal Lore（地獄界知識）：65
 * Infernal Might（地獄の実力値）：Might参照
 * Infernal, limit of（地獄の限界）：80
 * Infernal, the（地獄）：8, 85, 182, 186, 217
@@ -601,14 +601,14 @@
 * Inspiration（インスピレーション）：44
 * Instill Loyalty (creature power)（忠誠の植え付け（クリーチャーパワー））：194
 * instilling effects（効果の付与）：98-100
-* Intellego（インテレゴ／【知覚】）：77, 113
+* Intellego（インテルレゴー）：77, 113
 * Intelligence（【知性】）：18
 * intercession（とりなし）：204
-* interfering with mundanes（俗世への干渉）：14
-* Intrigue（策謀）：65
-* Intuition（直感）：44
+* interfering with mundanes（世俗への干渉）：14
+* Intrigue（《策謀》）：65
+* Intuition（《直感》）：44
 * inventing spells（呪文の発明）：95, 108
-* Inventive Genius（発明の天才）：44
+* Inventive Genius（《発想の天分》）：44
 * invested items（インベスト・アイテム）：96
 * investigating enchantments（呪付の調査）：100, 108
 * investigations（調査）：222
@@ -626,7 +626,7 @@
 * jumping（跳躍）：64
 * Justinian（ユスティニアヌス）：64
 * ka'aba（カアバ）：188
-* Keen Vision（鋭い視覚）：44
+* Keen Vision（《鋭い視力》）：44
 * kick（蹴り）：176, 177
 * kinesis（念動力）：193
 * knife（ナイフ）：64, 176, 177
@@ -639,24 +639,24 @@
 * Lady Chapel（聖母礼拝堂）：188
 * Lame（片足不自由）：55
 * lance（ランス）：176, 177
-* Landed Noble（領地持ち貴族）：44
+* Landed Noble（封建貴族）：44
 * Large（大柄）：44
-* Latent Magical Ability（潜在的魔力）：44
+* Latent Magical Ability（《埋もれた魔力》）：44
 * later life（その後の人生）：31
 * Latin（ラテン語）：64
 * law（法律）：40, 66; common law, civil law, canon lawも参照
 * lead, molten（溶けた鉛）：181
-* Leadership（指揮）：65
-* Learn (Ability) from Mistakes（失敗から学ぶ（能力））：44
+* Leadership（〈指揮〉）：65
+* Learn (Ability) from Mistakes（《失敗から学ぶ（能力）》）：44
 * learning Supernatural Abilities（超常能力の学習）：166
 * leather scale armor（レザースケール）：176
 * leaving regiones（レギオーからの脱出）：189
-* Lecherous（好色）：55
+* Lecherous（《好色》）：55
 * lector（朗読者）：40, 203
-* Legerdemain（手品）：65
+* Legerdemain（〈早業〉）：65
 * lending money（金貸し）：205
 * lesser enchantments（簡易呪付）：96
-* Lesser Immunity（部分的な耐性）：44
+* Lesser Immunity（《耐性》）：44
 * Lesser Limits（小限界）：80
 * Lesser Malediction（《呪い（小）》）：55
 * Lesser Purifying Touch（《清めの手（小）》）：44
@@ -665,19 +665,19 @@
 * liberal arts（自由学科）：Artes Liberales参照
 * library（蔵書）：71, 214
 * Libri Almagesti（アルマゲスト）：62
-* Life Boost（生命燃焼）：44
-* Life-Linked Spontaneous Magic（生命直結魔術）：44
-* Light Touch（器用な指先）：45
-* Lightning Reflexes（電光石火の反応）：45
-* Limited Magic Resistance（限定された魔法抵抗）：55
+* Life Boost（《生命燃焼》）：44
+* Life-Linked Spontaneous Magic（《生命直結魔術》）：44
+* Light Touch（《軽やかな指先》）：45
+* Lightning Reflexes（《反射神経》）：45
+* Limited Magic Resistance（《限定された魔法抵抗》）：55
 * Limits（限界）：163
 * experience source level limits（経験源レベルの限界）：164
 * Limits of Magic（魔法の限界）：79, 223
 * linked trigger（連動トリガー）：99
 * living conditions（生活環境）：170
 * living in strong auras（強力なオーラ内での生活）：167
-* (Living Language)（生きた言語）：66
-* Load（負荷）：178
+* (Living Language)（〈俗語〉）：66
+* Load（重量）：178
 * Local Reputation（地域の評判）：19
 * logic（論理学）：62
 * logica nova（新論理学）：62
@@ -686,51 +686,51 @@
 * longbow（ロングボウ）：177
 * Longevity Rituals（延命儀式）：51, 101, 108
 * long-term fatigue（長期疲労）：178, 181
-* Long-Winded（長話）：45
-* Loose Magic（散漫な魔術）：55
+* Long-Winded（《持久力》）：45
+* Loose Magic（《散漫な魔術》）：55
 * lord（領主）：207
 * Lord Marsyne（マーサイン卿）：195-196
 * Lord of Ice (creature power)（氷の王（クリーチャーパワー））：195
 * Lord of the Castle (creature power)（城の主（クリーチャーパワー））：195
-* Lost Love（失われた愛）：55
+* Lost Love（《失われた愛》）：55
 * Love（愛）：203
-* Low Self-Esteem（自尊心が低い）：55
+* Low Self-Esteem（《低い自己評価》）：55
 * low vis（少量のウィース）：218
 * low-research saga（研究軽視のサーガ）：221
 * loyal（忠実）：19
-* Luck（幸運）：45
+* Luck（《幸運》）：45
 * Lunar Sphere, limit of（月天の限界）：80
 * Lupersus（ルペルサス）：198
 * Lust（色欲）：203
-* Lycanthrope（狼憑き）：55
+* Lycanthrope（《獣憑き》）：55
 * lye（灰汁）：181
 * mace（メイス）：176, 177
 * mace and chain（フレイル）：176, 177
 * magi（魔術師）：211
 * Magic (creature power)（魔力（クリーチャーパワー））：198
 * Magic（魔術）：8, 174
-* Magic Addiction（魔術中毒）：56
+* Magic Addiction（《魔術への耽溺》）：56
 * magic and sin（魔法と罪）：202
 * magic aura（魔法のオーラ）：183, 184, 185
-* Magic Lore（魔法知識）：66
+* Magic Lore（〈魔法界知識〉）：66
 * Magic Might（魔法の実力値）：Might参照
-* Magic Realm（魔法の領域）：182, 184-185
+* Magic Realm（魔法界）：182, 184-185
 * magic resistance（魔法抵抗）：85-86, 87, 183, 184, 189, 191
-* Magic Sensitivity（魔法感受性）：45, 66, 189
-* Magic Theory（魔法理論）：66
-* Magical Air（魔法の雰囲気）：56
-* Magical Animal Companion（魔法の動物の相棒）：56
+* Magic Sensitivity（《魔法感受性》）：45, 66, 189
+* Magic Theory（魔術理論）：66
+* Magical Air（《魔法の妖気》）：56
+* Magical Animal Companion（《友なる魔獣》）：56
 * magical creatures（魔法のクリーチャー）：184
-* Magical Foci（魔法の焦点）：45-46
+* Magical Foci（魔術の専門分野）：45-46
 * magical items（魔法のアイテム）：16
-* Magical Memory（魔法の記憶）：45
+* Magical Memory（《魔術の記憶》）：45
 * Magical Senses（魔法の感覚）：113-114, 223
 * magical wolf（魔法の狼）：193
 * Magister in Artibus（学芸修士）：45
 * magnitudes（等級）：111
 * magus (also maga, magi)（マギ／魔術師）：4, 8, 17
 * magus templates（魔術師テンプレート）：24-28
-* Major Magical Focus（大いなる魔法の焦点）：45
+* Major Magical Focus（《魔術の専門分野（大）》）：45
 * Major Personality Flaws（大いなる性格の欠点）：37
 * Major Story Flaws（大いなる物語の欠点）：37
 * Marked Quarry (creature power)（標的（クリーチャーパワー））：195
@@ -740,27 +740,27 @@
 * martyrdom（殉教）：188
 * Mass（ミサ）：204
 * Master of Fire (creature power)（火の支配者（クリーチャーパワー））：194
-* Mastered Spells（習得呪文）：46
+* Mastered Spells（《習熟呪文》）：46
 * Mastery（習得）：Spell Mastery参照
 * Mateos, the Faerie Butler（妖精の執事マテオス）：194-195
 * Material and Size Tables（物質・サイズ表）：97
 * materials（物質）：176
-* Meddler（おせっかい）：56
-* Medicine（医学）：66, 180
+* Meddler（《お節介焼き》）：56
+* Medicine（〈医学〉）：66, 180
 * medieval paradigm（中世のパラダイム）：95
 * medium covenant（中規模コヴナント）：72
 * medium saga（中速度のサーガ）：218
 * medium-research saga（中程度の研究サーガ）：221
 * mendicant friars（托鉢修道士）：46, 206
 * Mentem（メンテム／心）：79, 148-152, 212
-* Mentor（導師）：56
+* Mentor（《支援者》）：56
 * Mercenary Captain（傭兵隊長）：46
 * Mercere（メルケーレ）：8, 12, 26, 30, 48, Redcapsも参照
-* Merchant（商人）：46
+* Merchant（《商人》）：46
 * Merchant's Blessing (creature power)（商人の祝福（クリーチャーパワー））：197
 * Merchant's Curse (creature power)（商人の呪い（クリーチャーパワー））：197
 * Merchant's Knowledge (creature power)（商人の知識（クリーチャーパワー））：197
-* Mercurian Magic（メルクリウス魔術）：46
+* Mercurian Magic（メルクリウス魔法）：46
 * Mercury（メルクリウス）：9, 46, 215
 * Merinita（メリニータ）：8, 9, 10, 12, 27, 30, 42, 92, 188
 * metal reinforced leather armor（リングメイル）：176
@@ -768,7 +768,7 @@
 * Metaphysica（形而上学）：67
 * Michael（ミカエル）：196, 204
 * Might（実力値）：191, 192
-* Minor Magical Focus（小なる魔法の焦点）：46
+* Minor Magical Focus（《魔術の専門分野（小）》）：46
 * minor orders（下級聖職位）：40
 * Minor Personality Flaws（小なる性格の欠点）：37
 * Minor Story Flaws（小なる物語の欠点）：37
@@ -776,16 +776,16 @@
 * mischievous childhood（わんぱくな幼少期）：31
 * missile combat（射撃戦闘）：172
 * missile weapons（射撃武器）：177
-* Missing Ear（耳欠損）：56
-* Missing Eye（片目）：56
-* Missing Hand（片手）：56
-* Mistaken Identity（人違い）：56
+* Missing Ear（《片耳》）：56
+* Missing Eye（《片目》）：56
+* Missing Hand（《片手》）：56
+* Mistaken Identity（《人違い》）：56
 * moderate vis（中程度のウィース）：218
 * Momentary（瞬間）：112
 * monasteries（修道院）：188, 206
 * monastic offices（聖務日課）：206
 * monastic rule（修道会則）：206
-* Monastic Vows（修道誓願）：46, 56
+* Monastic Vows（《修道誓願》）：46, 56
 * monks（修道士）：206
 * monkshood（トリカブト）：180
 * Monster（怪物）：73
@@ -794,12 +794,12 @@
 * Moors（ムーア人）：57, Muslimsも参照
 * Moses（モーゼ）：204
 * mosques（モスク）：188
-* Motion Sickness（乗り物酔い）：56
+* Motion Sickness（《乗り物酔い》）：56
 * mounted combat（騎乗戦闘）：174
 * multiple casting（多重詠唱）：87
-* mundane（俗世）：189
-* mundane interactions（俗世との交流）：222
-* Mundane Lord（俗世の領主）：70
+* mundane（世俗）：189
+* mundane interactions（世俗との交流）：222
+* Mundane Lord（世俗の領主）：70
 * mundanes（俗人）：14
 * music（音楽）：62, 66
 * Muslims（イスラム教徒）：182, 188, 189, 206, 217
@@ -807,41 +807,41 @@
 * Muto（ムト／変成）：78
 * Mysteries（秘儀）：91-93
 * Mystery Cults（秘儀魔術団）：10, 11, 30, 91, 223
-* Mythic Blood（神話的な血）：47
+* Mythic Blood（《神秘の血脈》）：47
 * Mythic Europe（伝承ヨーロッパ）：4, 8, 9, 186, 189, 199-210, 216; map 200-201
-* Necessary Condition（必須条件）：56
+* Necessary Condition（《発動条件》）：56
 * necromancy（死霊術）：45
 * No Hands（両手欠損）：56
 * No Sense of Direction（方向音痴）：56
 * nobles（貴族）：15, 42, 44, 199, 207-208, 222
-* Nocturnal（夜行性）：56
-* Noncombatant（非戦闘員）：56
+* Nocturnal（《宵っぱり》）：56
+* Noncombatant（《戦いに不向き》）：56
 * non-lethal combat（非致傷戦闘）：174
 * no-research saga（研究なしのサーガ）：221
-* Oath of Fealty（忠誠の誓い）：44, 56
-* Obese（肥満）：57
-* Obsessed（執着）：57
-* Offensive to Animals（動物に嫌われる）：57
+* Oath of Fealty（《忠誠の誓い》）：44, 56
+* Obese（《肥満》）：57
+* Obsessed（《固執》）：57
+* Offensive to Animals（《動物を怒らせる》）：57
 * Old Ones（古き者たち）：215
-* Optimistic（楽観的）：57
+* Optimistic（《楽天的》）：57
 * Order of Hermes（ヘルメス魔術団）：4, 8, 68, 75, 186, 210, 214, 216, 220; history of（歴史） 9
 * ordination（叙階）：203
-* Ordo Miscellanea（オルド・ミセラニア）：10
-* (Organization) Lore（組織知識）：66
+* Ordo Miscellanea（諸類派魔術団）：10
+* (Organization) Lore（〈組織知識〉）：66
 * Original Sin（原罪）：202
-* Outcast（追放者）：57
+* Outcast（《追放者》）：57
 * outfittings（装備品）：176
-* Outlaw（無法者）：57
-* Outlaw Leader（無法者のリーダー）：57
-* Outsider（よそ者）：57
-* Overconfident（自信過剰）：57
-* Oversensitive（過敏）：57
+* Outlaw（《無法者》）：57
+* Outlaw Leader（《無法者の長》）：57
+* Outsider（《よそ者》）：57
+* Overconfident（《自信過剰》）：57
+* Oversensitive（《過敏》）：57
 * Oxford（オックスフォード）：45
 * pack of one（一匹狼）：193
-* pagan（異教徒）：187
+* pagan（異教徒）：18
 * pagan deities（異教の神々）：184
-* Painful Magic（苦痛の魔術）：57
-* Palsied Hands（震える手）：57
+* Painful Magic（《苦痛を伴う魔術》）：57
+* Palsied Hands（《手の震え》）：57
 * Papal bulls（教皇教書）：64
 * parens（恩師／師匠）：8, 107
 * Paris（パリ）：45, 216
@@ -850,30 +850,30 @@
 * partial armor（部分鎧）：176
 * Paul, Saint（聖パウロ）：204
 * pawn（ポーン）：80
-* Peasant（農民）：47, 15, 210
+* Peasant（《農夫》）：47, 15, 210
 * penance（贖罪）：203
 * Penetration（貫通）：66, 82, 84, 87, 99, 183, 184, 191, 223
 * Perception（【知覚】）：18
 * Perdo（ペルド／破壊）：78
-* Perfect Balance（完璧なバランス）：47
+* Perfect Balance（《平衡感覚》）：47
 * Perfect Defender (creature power)（完璧な守り手（クリーチャーパワー））：198
 * Peripheral Code（附則法）：11, 13, 14, 15, 64
 * Personal（自身）：111
-* Personal Vis Source（個人のウィース源）：47
+* Personal Vis Source（《個人のウィース源》）：47
 * Personality Flaws（性格の欠点）：37
 * Personality Rolls (table)（性格ロール（表））：19
 * Personality Traits（性格）：18, 20, 33, 192
-* Pessimistic（悲観的）：57
+* Pessimistic（《悲観的》）：57
 * Peter, Saint（聖ペテロ）：204
-* Philosophiae（自然哲学）：66
+* Philosophiae（〈哲学〉）：66
 * philosophy（哲学）：188
 * phlegm（粘液）：66, 180
 * Physica（自然学）：67
 * physician（医師）：66
-* Piercing Gaze（鋭い眼光）：47
+* Piercing Gaze（《射抜く眼差し》）：47
 * pilgrimage（巡礼）：199, 203, 204, 206, 207
-* Pious（敬虔）：58
-* Plagued by Supernatural Entity（超常的存在に悩まされる）：58
+* Pious（《敬虔》）：58
+* Plagued by Supernatural Entity（《超常の憎悪》）：58
 * Platonic Forms（プラトンのイデア）：185
 * Platonic philosophy（プラトン哲学）：182
 * plots（プロット）：211
@@ -885,42 +885,42 @@
 * politics（政治）：73, 214, 215, 222
 * pooled characters（プールされたキャラクター）：219-220
 * Poor (Characteristic)（貧弱な（特性値））：58
-* Poor（貧乏）：58
-* Poor Eyesight（視力弱）：58
-* Poor Formulaic Magic（定式魔法苦手）：58
-* Poor Hearing（聴力弱）：58
-* Poor Memory（記憶力弱）：58
-* Poor Student（劣等生）：58
+* Poor（《貧乏》）：58
+* Poor Eyesight（《弱い視力》）：58
+* Poor Formulaic Magic（《定式呪文が苦手》）：58
+* Poor Hearing（《弱い聴力》）：58
+* Poor Memory（《物覚えが悪い》）：58
+* Poor Student（《勉強が苦手》）：58
 * Pope（教皇）：204
 * Poverty（貧困）：73
 * powerful covenant（強力なコヴナント）：72
 * Powerful Location（強力な場所）：70
 * Practice experience（実践経験点）：164
-* Praeco（プレコ）：14
+* Praeco（主宰）：14
 * Pralix（プラリクス）：10
-* Premonitions（予感）：47, 67
+* Premonitions（〈予感〉）：47, 67
 * preparing for enchantment（呪付の準備）：97
 * Presence（【魅力】）：18
-* Prestige（威信）：74
+* Prestige（名声）：74
 * Prey's Vigor (creature power)（獲物の活力（クリーチャーパワー））：195
 * Pride（傲慢）：203
 * priest（司祭）：23, 47, 188, 203, 204
 * Primus（首座）：14
 * Priscian（プリスキアヌス）：62
-* Privileged Upbringing（裕福な生い立ち）：47
+* Privileged Upbringing（《恵まれた幼少期》）：47
 * proactive stories（能動的な物語）：212
-* Profession（職業）：67
-* Profession: Scribe（職業：写字生）：166
+* Profession（〈職能〉）：67
+* Profession: Scribe（職能：写字生）：166
 * profit（利益）：205
-* Prohibition（禁忌）：58
+* Prohibition（《禁令》）：58
 * Project Blessing (creature power)（祝福の投射（クリーチャーパワー））：197
 * Project Curse (creature power)（呪いの投射（クリーチャーパワー））：197
-* Protection（保護）：47
+* Protection（《庇護》）：47
 * Protector（保護者）：73
-* Proud（誇り高い）：58
+* Proud（《尊大》）：58
 * Ptolemy（プトレマイオス）：62
-* Puissant (Ability)（強力な（能力））：48
-* Puissant (Art)（強力な（術法））：48
+* Puissant (Ability)（《強化（能力）》）：48
+* Puissant (Art)（《強化（術法）》）：48
 * pulsed saga（断続的なサーガ）：219
 * punches（パンチ）：64
 * punishment miracle（懲罰の奇跡）：206
@@ -941,24 +941,24 @@
 * quotidian fever（日毎熱）：10
 * raising the dead（死者蘇生）：25, 206
 * ranges（射程）：95, 111, 114, 223
-* Rapid Convalescence（急速回復）：48
+* Rapid Convalescence（《回復力》）：48
 * raw vis（ロウ・ウィース）：vis参照
 * reactive stories（受動的な物語）：212
 * read and write（読み書き）：62
 * realm auras（領域のオーラ）：183
 * Realms of Power（力の領域）：63, 182-190
-* Reckless（無鉄砲）：58
-* Reclusive（隠遁者）：58
+* Reckless（《無謀》）：58
+* Reclusive（《人嫌い》）：58
 * recovery from fatigue（疲労からの回復）：178
 * recovery from incapacitation（行動不能からの回復）：179
 * recovery from powers（能力からの回復）：192
 * recovery from wounds（負傷からの回復）：179
 * rector（教区牧師）：205
-* Redcap（赤帽子）：8, 10, 12, 15, 48, 75, Mercereも参照
+* Redcap（赤帽士）：8, 10, 12, 15, 48, 75, Mercereも参照
 * regio (pl. regiones)（レギオー）：73, 74, 183, 189-190, 210, 213
 * regio sight roll（レギオー視認ロール）：189
-* regional tribunals（地方評議会）：15
-* Rego（レゴ／操作）：78
+* regional tribunals（地方トリビューナル）：15
+* Rego（レゴー／操作）：78
 * regular clergy（修道司祭）：206
 * relics（聖遺物）：48, 188, 189, 204, 206, 214
 * Renouncing（追放）：13
@@ -967,13 +967,13 @@
 * requests for assistance（援助の要請）：213
 * requisites（制約術法）：114-115
 * research（研究）：220
-* Reserves of Strength（余力）：48
+* Reserves of Strength（《火事場の馬鹿力》）：48
 * resources（資源）：71, 205, 218
-* Restriction（制限）：58
+* Restriction（《状況の制限》）：58
 * Resurrection（復活）：202
 * rhetoric（修辞学）：62
 * Ride（乗馬）：67
-* Rigid Magic（融通の利かない魔術）：58
+* Rigid Magic（《硬直した魔術》）：58
 * Ring（魔法円）：112
 * Ritual Magic（儀式魔法）：46, 81
 * ritual spells（儀式呪文）：114, 115
@@ -1007,66 +1007,66 @@
 * searching（捜索）：64
 * seasons（季節）：68, 163
 * Seclusion（隔離）：74
-* Secondary Insight（副次的洞察）：48
-* Second Sight（霊視）：43, 48, 49, 67, 189
+* Secondary Insight（《演繹的な研究能力》）：48
+* Second Sight（《霊視》）：43, 48, 49, 67, 189
 * secular clergy（教区司祭）：206
 * secular law（世俗法）：40
 * Seferiel（セフェリエル）：198
-* Self-Confident（自信家）：48
-* Sense Holiness and Unholiness（聖邪感知）：48, 63, 67, 189
+* Self-Confident（《確固たる自信》）：48
+* Sense Holiness and Unholiness（《聖邪感知》）：48, 63, 67, 189
 * setting bones（接骨）：64
 * shape and material（形状と材質）：97
 * Shape and Material Bonuses table（形状・材質ボーナス表）：110
 * shapechangers（変身能力者）：184
-* Shapeshift（変身）：48
-* Shapeshifter（変身能力者）：48, 67, 208
-* Sharp Ears（地獄耳）：48
-* Sheltered Upbringing（箱入り）：58
+* Shapeshift（〈変身〉）：48
+* Shapeshifter（《変身》）：48, 67, 208
+* Sharp Ears（《鋭い聴力》）：48
+* Sheltered Upbringing（《温室育ち》）：58
 * shield（盾）：67, 176, 177
 * Short Attention Span（注意散漫）：58
 * shortbow（ショートボウ）：177
-* Short-Lived Magic（短命な魔術）：59
-* Short-Ranged Magic（短射程の魔術）：59
+* Short-Lived Magic（《短命な魔術》）：59
+* Short-Ranged Magic（《短射程魔術》）：59
 * short spear（ショートスピア）：176, 177
 * short sword（ショートソード）：176, 177
 * short-term fatigue（短期疲労）：178
-* Side Effect（副作用）：48
+* Side Effect（《副作用》）：48
 * Sidhe Blood（シーの血）：42
 * Sight（視覚）：112
 * sigils（印）：12, 86, 95, 116
 * Silent Running (creature power)（静かな走り（クリーチャーパワー））：195
 * Silver Cord（銀綬）：104
 * similar spells（類似の呪文）：101
-* simple die（単純ダイス）：6
-* Simple-Minded（単純）：59
+* simple die（シンプルダイス）：6
+* Simple-Minded（《単純》）：59
 * Single Weapon（片手武器）：67
 * size（サイズ）：18, 20, 192
-* Skilled Parens（熟練した師匠）：48
-* Skinchanger（皮を変える者）：48
+* Skilled Parens（《練達の師》）：48
+* Skinchanger（《姿変えの衣》）：48
 * sling（スリング）：177
 * Sloth（怠惰）：203
-* Slow Caster（遅い詠唱者）：59
+* Slow Caster（《のろま術者》）：59
 * slow saga（進行の遅いサーガ）：218
-* Small Frame（小柄）：59
+* Small Frame（《小柄》）：59
 * Smell（嗅覚）：114
 * sneak（忍び歩き）：67
-* Soak（防御力）：20, 78, 79, 104, 192
-* soak total（防御合計）：171
+* Soak（吸収値）：20, 78, 79, 104, 192
+* soak total（吸収値合計）：171
 * soap opera（ソープオペラ）：213
 * social childhood（社交的な幼少期）：31
-* Social Contacts（社会的コネ）：49
-* Social Handicap（社会的ハンディキャップ）：59
+* Social Contacts（《人脈》）：49
+* Social Handicap（《社交場の不利》）：59
 * Social Status（社会的地位）：28, 36, 38-39
 * Societas (pl. Societates)（ソキエタス）：30, 223
 * sodalis (pl. sodales)（同志）：8
-* Soft-Hearted（心優しい）：59
+* Soft-Hearted（《軟弱》）：59
 * soldier（兵士）：22
 * Soul, limit of（魂の限界）：80
 * soul（魂）：203
 * spear（槍）：176, 177
-* Special Circumstances（特別な状況）：49
+* Special Circumstances（得意な状況）：49
 * special effects（特殊効果）：175
-* specialist（スペシャリスト）：21, 72
+* specialist（専門家）：21, 72
 * Specializations（専門）：62
 * spell（呪文）：8
 * spellcasting options（呪文行使オプション）：82
@@ -1087,7 +1087,7 @@
 * Stamina（【体力】）：18
 * standard soldier（一般兵士）：22
 * starting character age（開始時のキャラクター年齢）：29
-* Stealth（隠密）：67
+* Stealth（〈隠密〉）：67
 * Stellatus, the Dragon（ドラゴン、ステラトゥス）：194
 * still casting（不動詠唱）：87
 * stone（石）：177
@@ -1098,8 +1098,8 @@
 * storytelling（語り）：50
 * Strength（【筋力】）：18
 * stress die（ストレス・ダイス）：6
-* Strong Faerie Blood（強力な妖精の血）：49
-* Strong-Willed（意志強固）：49
+* Strong Faerie Blood（《濃い妖精の血》）：49
+* Strong-Willed（《意志堅固》）：49
 * Structure（構造物）：113
 * structures（建造物）：204, 205
 * Struggling（苦闘）：70
@@ -1110,26 +1110,26 @@
 * sub-deacon（副助祭）：203
 * substances（物質）：77
 * Subtle Form (creature power)（希薄化（クリーチャーパワー））：198
-* Subtle Magic（目立たない魔術）：49
-* summa（スンマ）：71, 165
+* Subtle Magic（《目につきにくい魔法》）：49
+* summa（大全書）：71, 165
 * Summer（夏）：68
 * Sun/Ring（日／魔法円）：112
 * Sundering, the（大分断）：10
-* Superiors（上官）：74
+* Superiors（上位者）：74
 * Supernatural Abilities（超常能力）：18, 62, 63
-* Supernatural Nuisance（超常的厄介事）：59
+* Supernatural Nuisance（《超常の厄介事》）：59
 * Supernatural Virtues and Flaws（超常的美徳と欠点）：36, 38-39
 * surgery（手術）：64
-* Survival（生存）：67
-* Susceptibility to Divine Power（聖なる力への脆弱性）：59
-* Susceptibility to Faerie Power（妖精の力への脆弱性）：59
-* Susceptibility to Infernal Power（地獄の力への脆弱性）：59
-* Swim（水泳）：67
+* Survival（〈生存術〉）：67
+* Susceptibility to Divine Power（《神聖感受性》）：59
+* Susceptibility to Faerie Power（《妖精感受性》）：59
+* Susceptibility to Infernal Power（《地獄感受性》）：59
+* Swim（〈水泳〉）：67
 * sword（剣）：176, 177
 * sympathetic connections（共感連鎖）：84
 * sympathetic magic（共感魔法）：223
 * tainted vis（汚染されたウィース）：190
-* Tainted with Evil（悪に染まった）：59
+* Tainted with Evil（《邪悪な汚れ》）：59
 * taking communion（聖体拝領）：204
 * talisman（タリスマン）：84, 95, 98
 * targets（目標）：95, 112-113, 114, 223
@@ -1138,10 +1138,10 @@
 * Tasgillia（タスギリア）：10
 * Taste（味覚）：114
 * teacher（教師）：95, 72
-* teaching（指導）：45, 67, 164-165
+* teaching（教授）：45, 67, 164-165
 * Techniques（技法）：77, 115
-* Temperate（節制）：59
-* Temporal Influence（俗世への影響力）：49
+* Temperate（《節制》）：59
+* Temporal Influence（《世俗の影響力》）：49
 * Terram（テルラム／地）：79, 152-156
 * terrifying howl（恐ろしい遠吠え）：193
 * theological virtues（対神徳）：203
@@ -1153,10 +1153,10 @@
 * Time, limit of（時間の限界）：80
 * tithe（十分の一税）：205
 * tonsure（トンスラ）：203
-* Tormenting Master（意地の悪い師匠）：59
+* Tormenting Master（《悩ませる師匠》）：59
 * Touch（接触）：114
 * Touch/Eye（接触／目）：111
-* Tough（タフ）：49
+* Tough（《強靭》）：49
 * tough guy（タフガイ）：22
 * tournaments（トーナメント）：207-208
 * towns（町）：209-210, 213
@@ -1167,19 +1167,19 @@
 * training（訓練）：164
 * training apprentices（徒弟の訓練）：106-107
 * Trajan, emperor（トラヤヌス帝）：203
-* Transvestite（異性装）：59
+* Transvestite（《異装癖》）：59
 * travel（旅行）：181, 207
 * traveling childhood（旅する幼少期）：31
 * treasure hunting（トレジャーハンティング）：213, 214
 * Tree of Knowledge of Good and Evil（善悪の知識の木）：186
 * Tremere（トレメーレ）：8, 10, 12, 27, 30
 * Trianoma（トリアノマ）：8, 9, 11
-* tribunals（評議会）：8, 9, 14, 64, 215, 216
+* tribunals（トリビューナル）：8, 9, 14, 64, 215, 216
 * trigger（トリガー）：99
 * Trivium（三科）：62
 * troupe-style roleplaying（トゥループ・スタイル・ロールプレイング）：4, 211, 219-220
-* Troupe Upbringing（トゥループ育ち）：50
-* True Faith（真の信仰）：50, 188, 189, 198, 215
+* Troupe Upbringing（《旅芸人育ち》）：50
+* True Faith（《真の信仰》）：50, 188, 189, 198, 215
 * True Feeling, limit of（真の感情の限界）：80
 * True Friend（真の友）：50, 53
 * True Lineages（真正の血統）：10, 11, 30, 223
@@ -1187,21 +1187,21 @@
 * tumbling（タンブリング）：50
 * Twelve Founders（12人の祖師）：the Founders参照
 * Twilight（黄昏）：Wizard's Twilight参照
-* Twilight Prone（黄昏に陥りやすい）：60
+* Twilight Prone（《黄昏の誘い》）：60
 * Twilight Scars（黄昏の痕跡）：20, 89
 * Tytalus（テュータルス）：8, 12, 27, 30
 * Tytalus corruption of（テュータルスの堕落）：10
 * Unaging（不老）：50, 166
 * Undine Blood（ウンディーネの血）：42
 * Unending Drinks (creature power)（尽きせぬ酒（クリーチャーパワー））：194
-* Unimaginative Learner（想像力に欠ける生徒）：60
+* Unimaginative Learner（《想像力不足》）：60
 * universities（大学）：45
 * Unknown Hook（未知のコヴナント設定）：73
-* Unpredictable Magic（予測不能な魔術）：60
-* Unstructured Caster（型破りな詠唱者）：60
-* Until (Condition)（～まで（条件））：92
+* Unpredictable Magic（《予測不可能な魔術》）：60
+* Unstructured Caster（《体系学習できない術者》）：60
+* Until (Condition)（条件）：92
 * untrained group（未訓練の集団）：173
-* Urban（都会）：70, 74
+* Urban（都市）：70, 74
 * using enchanted devices（呪付装置の使用）：100
 * using experience points（経験点の使用）：163
 * vambraces（腕甲）：176
@@ -1222,45 +1222,45 @@
 * vis sources（ウィース源）：190, 213, 218
 * vitriol（硫酸）：181
 * Voice（声）：112
-* Vow（誓い）：60
+* Vow（《誓い》）：60
 * vows（誓願）：206
 * vows of poverty, chastity and obedience（清貧・貞潔・服従の誓い）：46
 * waiting spell（待機呪文）：100, 162
-* Wanderer（放浪者）：50
+* Wanderer（《放浪者》）：50
 * wards（結界）：114, 120, 124, 129, 134, 138, 143, 151, 155, 161, 223
 * warhammer（ウォーハンマー）：176, 177
-* Warped Magic（歪んだ魔術）：60
+* Warped Magic（《歪んだ魔術》）：60
 * Warping（歪曲）：88, 167-168, 224
 * Warping, limit of（歪曲の限界）：80
 * Warping Points（歪曲ポイント）：52, 87
-* warping score（歪曲スコア）：20, 192
-* Warrior（戦士）：50
-* Waster of Vis（ウィースの浪費家）：61
+* warping score（歪曲度）：20, 192
+* Warrior（《戦闘訓練》）：50
+* Waster of Vis（《ウィースの浪費家》）：61
 * water deprivation（水欠乏）：180
 * Ways of the (Land)（～の流儀（土地））：50
-* Weak Characteristics（虚弱な特性値）：61
+* Weak Characteristics（《乏しい特性値》）：61
 * weak covenant（弱小コヴナント）：72
-* Weak Enchanter（未熟なエンチャンター）：61
-* Weak Magic（弱い魔術）：61
-* Weak Magic Resistance（弱い魔法抵抗）：61
-* Weak Parens（未熟な師匠）：61
-* Weak Scholar（未熟な学者）：61
-* Weak Spontaneous Magic（未熟な即興魔法）：61
-* Weakness（弱点）：61
-* Weak-Willed（意志薄弱）：61
+* Weak Enchanter（《呪付が苦手》）：61
+* Weak Magic（《ひ弱な魔術》）：61
+* Weak Magic Resistance（《弱点のある魔法抵抗》）：61
+* Weak Parens（《無能な師匠》）：61
+* Weak Scholar（《劣等生》）：61
+* Weak Spontaneous Magic（《微力な即興魔法》）：61
+* Weakness（《弱点》）：61
+* Weak-Willed（《意志薄弱》）：61
 * Wealth（富）：74
-* Wealthy（裕福）：50
-* Weird Magic（奇妙な魔術）：61
-* Well-Traveled（旅慣れた）：50
-* Wilderness Sense（山野の知恵）：50, 67
+* Wealthy（《富裕》）：50
+* Weird Magic（《奇妙な魔術》）：61
+* Well-Traveled（《旅慣れ》）：50
+* Wilderness Sense（《山野の知恵》）：50, 67
 * Winter（冬）：70
 * Winter Ruins（冬の廃墟）：70
-* Wise One（賢者）：50
+* Wise One（《賢人》）：50
 * witch（魔女）：23
-* Wizard's Communion（ウィザーズ・コミュニオン）：46, 160
-* Wizard's March（ウィザーズ・マーチ）：13, 64, 66
+* Wizard's Communion（魔術師の同調）：46, 160
+* Wizard's March（魔術師の行軍）：13, 64, 66
 * wizard's sigil（魔術師の印）：sigil参照
-* Wizard's Twilight（ウィザーズ・トワイライト）：11, 79, 87, 88-89, 185, 218, 224
+* Wizard's Twilight（魔術師の黄昏）：11, 79, 87, 88-89, 185, 218, 224
 * Wizard's War（ウィザーズ・ウォー）：10, 13, 14, 215
 * wolf lord（狼の王）：193
 * words and gestures（言葉と身振り）：83
@@ -1270,7 +1270,7 @@
 * Wound Table（負傷表）：179
 * wounds（負傷）：178-180
 * Wrath（憤怒）：203
-* Wrathful（激昂）：61
+* Wrathful（《怒りっぽい》）：61
 * writing books（執筆）：165
 * Year（年）：112
 * Year +1（年+1）：93
